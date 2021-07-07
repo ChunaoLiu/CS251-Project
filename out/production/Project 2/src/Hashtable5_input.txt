@@ -1,0 +1,201 @@
+23
+c Madalyn false
+i Katrinka 10 true
+i Liliane 3 true
+c Tandie false
+c Elli false
+c Elli false
+c Madalyn false
+i Madalyn 8 true
+c Hedvige false
+c Becca false
+i Christye 5 true
+i Ilse 3 true
+c Elli false
+c Lorinda false
+c Bobby false
+i Liliane 7 false
+i Katrinka 5 false
+i Bobby 3 true
+c Afton false
+i Odilia 5 true
+c Mavra false
+c Mavra false
+i Becca 3 true
+i Odilia 5 false
+c Odilia true
+i Odilia 9 false
+i Karia 9 true
+c Hedvige false
+c Nadiya false
+c Ilse true
+i Becca 7 false
+i Nadiya 9 true
+c Bobby true
+i Charmine 2 true
+c Frank false
+c Nadiya true
+i Hedvige 7 true
+c Charmine true
+i Elli 1 true
+i Lorinda 6 true
+i Madalyn 7 false
+c Madalyn true
+i Elli 8 false
+c Tandie false
+i Madalyn 10 false
+c Nanci false
+c Nadiya true
+c Elli true
+i Charmine 5 false
+c Charmine true
+c Hedvige true
+c Hedvige true
+c Becca true
+c Elli true
+i Tandie 9 true
+i Bobby 2 false
+i Becca 8 false
+c Lorinda true
+c Becca true
+i Charmine 7 false
+c Odilia true
+c Lorinda true
+c Odilia true
+c Christye true
+c Afton false
+i Frank 10 true
+i Karia 9 false
+c Odilia true
+i Charmine 5 false
+i Frank 6 false
+i Halette 5 true
+c Liliane true
+c Afton false
+i Katrinka 9 false
+i Frank 5 false
+c Karia true
+i Lorinda 1 false
+c Becca true
+c Lorinda true
+i Nadiya 8 false
+i Katrinka 6 false
+i Bobby 3 false
+i Bobby 2 false
+i Odilia 2 false
+i Odilia 5 false
+c Nadiya true
+c Katrinka true
+i Katrinka 5 false
+c Katrinka true
+c Frank true
+c Lorinda true
+c Ilse true
+i Christye 9 false
+c Madalyn true
+i Lorinda 3 false
+c Odilia true
+i Elli 5 false
+c Lorinda true
+c Ilse true
+i Elli 8 false
+c Bobby true
+c Bobby true
+i Charmine 3 false
+c Bobby true
+c Afton false
+i Christye 7 false
+c Mavra false
+c Nanci false
+i Lorinda 4 false
+c Becca true
+i Liliane 1 false
+c Tandie true
+c Afton false
+i Liliane 5 false
+c Liliane true
+i Liliane 7 false
+i Bobby 8 false
+i Katrinka 2 false
+i Frank 2 false
+i Nadiya 1 false
+i Christye 6 false
+i Nanci 2 true
+i Hedvige 3 false
+c Lorinda true
+i Frank 5 false
+c Liliane true
+i Elli 4 false
+c Afton false
+i Afton 10 true
+i Liliane 10 false
+i Hedvige 5 false
+i Elli 1 false
+c Becca true
+i Christye 5 false
+i Nanci 3 false
+i Bobby 6 false
+c Nanci true
+c Karia true
+i Nanci 10 false
+c Nanci true
+i Ilse 9 false
+c Bobby true
+c Bobby true
+c Nanci true
+c Christye true
+c Elli true
+i Karia 4 false
+i Hedvige 7 false
+c Bobby true
+c Becca true
+i Halette 4 false
+i Charmine 4 false
+c Becca true
+i Karia 4 false
+c Karia true
+i Tandie 7 false
+c Nanci true
+c Becca true
+i Hedvige 1 false
+i Nanci 1 false
+c Elli true
+c Ilse true
+c Charmine true
+i Charmine 4 false
+i Bobby 10 false
+i Katrinka 4 false
+i Halette 8 false
+i Mavra 2 true
+c Bobby true
+c Becca true
+i Katrinka 6 false
+c Katrinka true
+c Karia true
+c Afton true
+i Katrinka 6 false
+c Christye true
+c Nanci true
+c Karia true
+c Christye true
+c Bobby true
+i Nanci 4 false
+c Elli true
+c Odilia true
+c Afton true
+i Afton 6 false
+i Nanci 9 false
+i Ilse 2 false
+i Nadiya 1 false
+c Ilse true
+c Elli true
+i Nanci 4 false
+c Liliane true
+c Odilia true
+c Mavra true
+c Madalyn true
+i Christye 2 false
+c Charmine true
+c Tandie true
+c Nadiya true
+c Liliane true

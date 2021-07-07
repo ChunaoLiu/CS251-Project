@@ -1,0 +1,31 @@
+7
+i Fredra 8 true
+i Elana 6 true
+i Aubrie 10 true
+c Brandice false
+c Brandice false
+i Fredra 8 false
+c Ondrea false
+i Ondrea 3 true
+i Ondrea 7 false
+i Fredra 8 false
+i Nicolette 5 true
+i Bridget 3 true
+c Nicolette true
+c Kristi false
+i Brandice 2 true
+i Fredra 6 false
+c Aubrie true
+i Fredra 9 false
+c Elana true
+i Kristi 10 true
+c Kristi true
+i Brandice 5 false
+c Rasia false
+i Elana 7 false
+i Elana 1 false
+c Bridget true
+i Nicolette 1 false
+c Bridget true
+c Ondrea true
+c Brandice true

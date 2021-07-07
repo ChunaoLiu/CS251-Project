@@ -1,0 +1,3001 @@
+47
+i Larisa 14 true
+s 1
+i Bridget 11 true
+i Anni 3 true
+i Margarette 13 true
+i Arlana 15 true
+s 5
+i Nance 1 true
+i Noreen 3 true
+i Netta 1 true
+i Janith 17 true
+i Sheelah 5 true
+i Frederica 18 true
+s 11
+i Celestyna 11 true
+s 12
+i Lorene 10 true
+i Henriette 14 true
+s 14
+i Kippy 16 true
+i Devina 20 true
+i Jess 4 true
+i Celestyna 10 false
+i Shayna 12 true
+i Clemmie 11 true
+i Christine 19 true
+i Brenna 18 true
+i Johannah 4 true
+i Holly 18 true
+i Alayne 16 true
+s 24
+i Kania 3 true
+i Caty 11 true
+i Koo 8 true
+i Modestia 11 true
+i Bev 4 true
+i Janet 13 true
+i Arlina 6 true
+i Farrah 7 true
+i Darcie 11 true
+i Celina 10 true
+i Korella 19 true
+i Bibbie 10 true
+i Philippe 20 true
+i Chelsey 20 true
+i Ellissa 19 true
+i Della 17 true
+i Karoline 3 true
+i Malinda 9 true
+i Darcie 17 false
+s 42
+i Joly 8 true
+s 43
+i Sadella 9 true
+i Eileen 9 true
+i Chlo 18 true
+s 46
+i Georgianna 7 true
+i Murielle 16 true
+i Almeta 19 true
+i Kameko 1 true
+s 50
+s 50
+i Wenonah 19 true
+s 51
+s 51
+i Juanita 1 true
+i Hedda 1 true
+i Collie 15 true
+i Daffy 13 true
+i Annissa 16 true
+i Michaeline 8 true
+i Gianina 8 true
+i Wanda 16 true
+i Joanna 12 true
+i Cynthie 3 true
+i Anabella 15 true
+i Starlene 10 true
+s 63
+i Sephira 12 true
+i Christen 2 true
+i Laure 5 true
+i Tallou 9 true
+i Tilly 6 true
+i Therese 3 true
+i Elana 9 true
+i Steffie 7 true
+i Esmaria 13 true
+s 72
+i Brenda 8 true
+i Nicolle 1 true
+s 74
+i Ronna 4 true
+i Lanita 6 true
+i Camel 14 true
+i Deina 7 true
+i Jenny 3 true
+i Dyann 7 true
+i Alison 9 true
+i Breena 8 true
+i Benetta 8 true
+i Merrile 5 true
+i Georgianna 18 false
+i Aurelea 3 true
+i Ealasaid 4 true
+i Bev 15 false
+i Kyrstin 19 true
+i Ailee 10 true
+i Evelyn 12 true
+i Nicholle 13 true
+i Alvinia 17 true
+i Wenona 6 true
+i Darelle 16 true
+i Felisha 15 true
+s 94
+i Kania 12 false
+i Wendie 14 true
+i Glennis 4 true
+i Jan 1 true
+s 97
+i Marjory 11 true
+i Fancie 12 true
+s 99
+i Lelia 20 true
+s 100
+i Sibylle 17 true
+i Atlante 11 true
+s 102
+i Ester 18 true
+i Shawn 4 true
+s 104
+i Arleta 4 true
+i Kiele 16 true
+i Kristina 6 true
+i Charlotte 2 true
+i Koo 14 false
+i Dee 2 true
+s 109
+i Bryana 7 true
+i Felisha 1 false
+i Winni 11 true
+s 111
+i Florette 16 true
+s 112
+i Winny 14 true
+s 113
+i Ingunna 12 true
+i Miquela 13 true
+i Merl 6 true
+i Holli 10 true
+i Nollie 2 true
+i Rosabelle 20 true
+i Odelinda 8 true
+i Natty 5 true
+i Lela 20 true
+i Lorri 5 true
+i Hadria 9 true
+i Micheline 7 true
+s 125
+i Janet 1 false
+i Geri 8 true
+s 126
+i Madlen 11 true
+i Brandi 1 true
+i Gianina 18 false
+i Rey 15 true
+i Ester 12 false
+s 129
+i Fancie 6 false
+i Muire 8 true
+s 130
+i Lillian 8 true
+i Brenna 7 false
+i Tiphanie 3 true
+i Brandi 19 false
+i Cherilyn 14 true
+i Suzanna 11 true
+i Ronna 9 false
+i Carolyn 9 true
+i Monika 9 true
+i Willyt 10 true
+i Sibilla 14 true
+i Clerissa 11 true
+i De 1 true
+s 140
+i Pearle 2 true
+i Meridith 5 true
+i Sissie 17 true
+i Fern 2 true
+i Pearle 14 false
+i Lizabeth 4 true
+i Daryn 15 true
+i Marylynne 5 true
+i Genny 15 true
+s 148
+i Evangelia 3 true
+s 149
+i Carin 13 true
+i Leontyne 6 true
+i Betsey 9 true
+i Berthe 20 true
+i Frederica 14 false
+i Amelita 9 true
+i Miquela 19 false
+s 154
+i Honey 5 true
+i Guenna 18 true
+i Chelsey 13 false
+s 156
+i Vi 14 true
+i Nada 18 true
+i Cindie 4 true
+s 159
+i Drusie 6 true
+i Sibylle 11 false
+i Channa 5 true
+s 161
+s 161
+i Sonya 6 true
+i Isidora 15 true
+i Pippy 12 true
+s 164
+i Denna 20 true
+i Augustina 13 true
+i Frieda 17 true
+i Drusie 1 false
+i Lotty 9 true
+i Tonya 18 true
+i Verna 19 true
+i Leanor 5 true
+i Astrid 15 true
+i Daryn 15 false
+i Hedvige 12 true
+i Virginie 6 true
+i Mable 3 true
+i Glynis 14 true
+i Valida 13 true
+i La 19 true
+i Jerrilee 14 true
+i Jaclyn 9 true
+s 180
+s 180
+i Wanda 12 false
+s 180
+i Marjorie 8 true
+i Valina 8 true
+i Shel 14 true
+i Johannah 19 false
+s 183
+i Janetta 9 true
+i Emmalynn 1 true
+s 185
+i Shayna 13 false
+i Charla 1 true
+i Frederique 15 true
+i Nikkie 10 true
+i Petronella 1 true
+i Aurelie 15 true
+i Ethyl 18 true
+i Karola 18 true
+i Adelaida 13 true
+i Cate 1 true
+i Winnifred 4 true
+i Kara-Lynn 7 true
+i Neila 19 true
+i Amber 16 true
+i Doro 15 true
+i Evy 5 true
+s 200
+i Lu 13 true
+s 201
+i Betsey 15 false
+s 201
+i Tera 1 true
+i Jilly 13 true
+i Kameko 19 false
+i Etta 10 true
+i Rosalia 16 true
+i Aubrey 5 true
+i Constantia 5 true
+s 207
+i Chlo 19 false
+i Germain 16 true
+s 208
+i Rhoda 17 true
+i Jere 9 true
+i Danya 20 true
+s 211
+i Cathe 11 true
+i Marys 8 true
+i Manya 14 true
+s 214
+s 214
+i Bertina 9 true
+s 215
+s 215
+i Janelle 4 true
+i Marlene 17 true
+i Chelsey 15 false
+i Avis 8 true
+i Pearle 13 false
+i Jenifer 11 true
+s 219
+i Gabbi 14 true
+s 220
+i Frankie 10 true
+i Sophi 14 true
+i Marjory 3 false
+s 222
+i Berenice 16 true
+i Kendre 7 true
+i Blondell 15 true
+i Perle 14 true
+i Drucy 13 true
+i Jerry 1 true
+s 228
+i Leda 13 true
+i Vanessa 16 true
+i Carin 11 false
+s 230
+i Rea 1 true
+i Clair 20 true
+s 232
+i Blondelle 17 true
+i Orelle 14 true
+i Drusie 15 false
+i Rhoda 7 false
+i Dre 7 true
+i Vivie 19 true
+i Engracia 19 true
+s 237
+s 237
+i Alicia 10 true
+s 238
+i Roxi 8 true
+i Dolli 15 true
+i Brenda 20 false
+i Perla 16 true
+i Linette 3 true
+s 242
+i Tove 20 true
+i Scarlet 18 true
+i Lily 12 true
+i Breena 2 false
+i Vanda 13 true
+i Brianne 8 true
+s 247
+i Ronna 9 false
+i Lilah 1 true
+i Silva 3 true
+s 249
+s 249
+i Maud 18 true
+i Caritta 16 true
+i Kathy 7 true
+i Dani 12 true
+i Aurelie 12 false
+i Lanita 13 false
+s 253
+i Francine 19 true
+i Dollie 16 true
+i Mireielle 5 true
+i Kare 7 true
+i Jeannine 10 true
+i Callie 8 true
+s 259
+i Latrena 2 true
+s 260
+i Bonnie 7 true
+i Maurita 8 true
+i Corabella 7 true
+i Aleta 16 true
+i Esmaria 12 false
+i Petronella 12 false
+i Corrine 5 true
+i Hali 6 true
+s 266
+s 266
+i Phyllys 12 true
+s 267
+s 267
+s 267
+i Freda 5 true
+i Rozelle 11 true
+i Zora 14 true
+i Vanna 10 true
+i Salomi 16 true
+i Barbaraanne 16 true
+s 273
+i Buffy 4 true
+i Ainslie 16 true
+i Sibilla 13 false
+s 275
+s 275
+i Kare 10 false
+i Elset 17 true
+i Mable 4 false
+i Adelaida 11 false
+s 276
+i Dyanna 5 true
+i Nicoline 11 true
+i Ester 13 false
+i Sheeree 20 true
+s 279
+s 279
+s 279
+s 279
+i Amelita 6 false
+i Tiffanie 18 true
+i Wenona 2 false
+i Kathlin 14 true
+i Kellen 10 true
+i Leda 8 false
+i Verna 1 false
+i Lelia 12 false
+i Heddi 18 true
+i Hedvige 1 false
+i Annamaria 20 true
+i Tilly 3 false
+i Tomi 9 true
+i Constantia 4 false
+i Birgit 16 true
+i Millicent 1 true
+i Leontine 6 true
+i Lynelle 16 true
+i Jeannine 14 false
+i Annabelle 2 true
+i Laure 17 false
+i Karola 14 false
+i Vilma 12 true
+i Grier 14 true
+i Arlana 6 false
+i Collie 16 false
+s 292
+i Blithe 13 true
+i Jenica 17 true
+i Karry 14 true
+i Bonnie 2 false
+i Miquela 6 false
+i Mignonne 2 true
+i Bernadine 13 true
+i Karoline 5 false
+i Roselia 15 true
+i Janet 18 false
+s 298
+i Eustacia 2 true
+i Lulu 9 true
+s 300
+i Elfrida 20 true
+i Ardella 10 true
+i Sammy 16 true
+s 303
+i Ameline 15 true
+i Blondell 4 false
+i Felisha 3 false
+i Dianna 17 true
+i Bonnie 20 false
+i Jan 14 false
+i Theresita 19 true
+i Frederique 20 false
+i Effie 17 true
+i Tonya 9 false
+s 307
+i Christel 1 true
+i Wenonah 7 false
+i Katy 2 true
+s 309
+s 309
+i Jenn 16 true
+s 310
+i Wylma 9 true
+i Georgette 16 true
+s 312
+s 312
+i Barbra 3 true
+i Marin 12 true
+i Cheslie 10 true
+i Juieta 13 true
+i Jolyn 8 true
+i Lynelle 15 false
+i Hedda 17 false
+i Sella 10 true
+s 318
+s 318
+s 318
+i Bryana 18 false
+i Brandi 6 false
+i Suzann 15 true
+i Jeanette 1 true
+i Perle 4 false
+i Phoebe 4 true
+i Enrika 11 true
+i Ursa 10 true
+s 323
+i Iolanthe 16 true
+s 324
+s 324
+i Helsa 19 true
+i Steffie 17 false
+i Evangelia 14 false
+i Celesta 3 true
+s 326
+s 326
+i Zsazsa 5 true
+i Heddie 15 true
+i Anatola 5 true
+i Louella 18 true
+i Tomi 4 false
+i Guenna 4 false
+s 330
+i Dolli 14 false
+i Trescha 9 true
+i Breena 6 false
+i Leilah 14 true
+i Marina 16 true
+i Nancey 6 true
+s 334
+i Trista 4 true
+i Arleta 3 false
+s 335
+i Kellie 1 true
+i Minda 13 true
+i Aleta 19 false
+i Valida 15 false
+i Crysta 12 true
+i Bianka 17 true
+i Sammy 19 false
+s 339
+i Dasha 15 true
+i Jennilee 9 true
+i Ruthe 10 true
+i Starlene 19 false
+i Charla 10 false
+i Silva 11 false
+i Nanon 9 true
+i Ange 11 true
+i Lilah 15 false
+i Jillana 9 true
+i Dreddy 20 true
+i Clair 14 false
+i Abagael 10 true
+s 347
+s 347
+i Drusi 6 true
+i Leda 14 false
+i Georgina 17 true
+i Ingeborg 11 true
+i Shelly 19 true
+i Ashla 1 true
+s 352
+s 352
+i Tonya 18 false
+i Ros 3 true
+i Julienne 16 true
+i Isidora 3 false
+i Verna 14 false
+i Arlena 20 true
+i Estell 13 true
+i Guenna 7 false
+i Quintana 11 true
+i Jess 17 false
+i Charisse 12 true
+i Trescha 10 false
+i Marietta 16 true
+i Bianka 2 false
+i Jodi 17 true
+s 360
+s 360
+s 360
+s 360
+s 360
+i Willa 5 true
+i Zorana 19 true
+s 362
+s 362
+i Honey 7 false
+i Rey 5 false
+i Augusta 4 true
+i Kathy 15 false
+i Olympia 14 true
+s 364
+s 364
+i Goldi 5 true
+i Juieta 16 false
+s 365
+i Tilly 13 false
+i Dianna 3 false
+i Marcia 1 true
+i Leda 14 false
+i Carmella 9 true
+i Vilma 16 false
+i Barby 20 true
+s 368
+i Darelle 5 false
+i Elysia 10 true
+i Constantia 15 false
+i Jenica 19 false
+i Malinde 13 true
+i Austine 4 true
+i Felicity 5 true
+i Heddie 2 false
+s 372
+s 372
+i Winnifred 19 false
+i Wenda 13 true
+i Natty 3 false
+i Tracee 18 true
+i Sammy 19 false
+i Neila 15 false
+i Lanae 10 true
+i Tilly 10 false
+s 375
+i Marjory 1 false
+i Dorita 7 true
+i Pauletta 6 true
+i Noell 4 true
+i Merrile 6 false
+s 378
+i Joan 5 true
+i Kristina 9 false
+i Olympia 6 false
+i Virginie 17 false
+i Margeaux 4 true
+i Neely 14 true
+i Korella 16 false
+i Wenda 3 false
+i Adiana 18 true
+i Becca 13 true
+i Amity 12 true
+s 384
+s 384
+i Cinnamon 1 true
+i Yasmin 18 true
+i Helen 4 true
+i Fan 2 true
+s 388
+i Roselia 18 false
+s 388
+i Jessalin 6 true
+i Annissa 3 false
+s 389
+i Davine 15 true
+i Fawn 14 true
+i Melosa 9 true
+i Doretta 4 true
+i Malinda 8 false
+i Golda 13 true
+i Merola 14 true
+i Hedvige 14 false
+i Barby 10 false
+i Ann-Marie 11 true
+i Robinett 4 true
+s 397
+i Berthe 12 false
+i Talia 14 true
+i Rina 2 true
+i Glynis 18 false
+s 399
+i Luciana 10 true
+i Deerdre 3 true
+i Blondelle 2 false
+s 401
+i Dasha 16 false
+i Suzann 17 false
+i Abbe 14 true
+i Codi 1 true
+i Anni 7 false
+i Darelle 9 false
+i Sammy 14 false
+i Tana 13 true
+i Elga 7 true
+i Alicia 14 false
+i Netta 8 false
+s 405
+i Harmonia 5 true
+i Brenda 3 false
+s 406
+i Nissie 14 true
+s 407
+s 407
+i Phebe 9 true
+s 408
+i Ashlee 18 true
+i Justina 12 true
+s 410
+s 410
+i Kippy 19 false
+i Megan 20 true
+i Ayn 20 true
+i Carolynn 7 true
+i Hetty 6 true
+i Adelaida 7 false
+i Mil 17 true
+i Dalia 8 true
+s 416
+i Jessa 14 true
+i Hadria 10 false
+i Bertha 19 true
+i Marsha 19 true
+i Anni 9 false
+i Kali 10 true
+i Peggy 4 true
+s 421
+i Lanae 9 false
+i Murielle 16 false
+i Corilla 3 true
+i Gay 17 true
+i Dyanna 9 false
+i Bendite 16 true
+i Felicia 13 true
+i Linell 2 true
+i Arlena 3 false
+i Shandra 2 true
+i Laurena 12 true
+i Belle 6 true
+s 429
+i Ianthe 2 true
+i Afton 14 true
+i Junina 17 true
+i Kellie 15 false
+i Murielle 12 false
+s 432
+s 432
+s 432
+i Zorana 4 false
+s 432
+i Blythe 1 true
+i Breena 4 false
+i Vanna 6 false
+s 433
+s 433
+s 433
+i Dyanne 10 true
+s 434
+i Leilah 14 false
+s 434
+i Anna-Maria 15 true
+i Zsazsa 17 false
+i Evy 7 false
+s 435
+i Alicia 10 false
+i Hally 5 true
+i Sammy 16 false
+i Annamaria 9 false
+s 436
+s 436
+i Birgit 3 false
+i Maurene 3 true
+i Antonietta 17 true
+i Cele 5 true
+i Ulla 15 true
+i Cele 3 false
+i Candis 13 true
+i Miquela 15 false
+s 441
+s 441
+s 441
+i Sib 2 true
+s 442
+i Nara 9 true
+i Talia 11 false
+i Marj 15 true
+i Helen-Elizabeth 1 true
+i Salaidh 19 true
+i Karita 10 true
+i Krystal 13 true
+s 448
+i Liza 13 true
+i Kally 1 true
+i Nicolle 8 false
+i Bridget 15 false
+s 450
+i Laurena 15 false
+i Noreen 13 false
+i Sammy 12 false
+i Lilah 18 false
+i Josi 18 true
+i Almeda 12 true
+i Modesta 9 true
+i Bertina 18 false
+s 453
+s 453
+i Devinne 14 true
+i Corrine 6 false
+i Kimberli 19 true
+i Paulina 16 true
+i Susannah 17 true
+s 457
+i Odella 9 true
+s 458
+i Hetty 20 false
+i Perle 16 false
+i Perla 8 false
+i Bobbee 1 true
+i Mireielle 18 false
+i Saraann 5 true
+s 460
+s 460
+i Rosabelle 3 false
+i Josselyn 7 true
+i Breena 10 false
+s 461
+i Glennis 1 false
+s 461
+i Edna 10 true
+i Zilvia 2 true
+i Devi 6 true
+i Carena 13 true
+s 465
+s 465
+s 465
+i Corabella 14 false
+i Malinde 10 false
+i Joleen 17 true
+i Kimberli 9 false
+i Leora 1 true
+i Netti 6 true
+s 468
+i Deina 4 false
+i Maia 3 true
+i Essie 2 true
+s 470
+i Glenna 1 true
+i Vanessa 15 false
+i Chrystal 12 true
+i Effie 16 false
+i Angele 1 true
+i Linette 13 false
+i Carmella 4 false
+i Michaela 16 true
+s 474
+s 474
+i Brittney 2 true
+i Petronilla 18 true
+s 476
+i Karisa 1 true
+i Dalila 20 true
+i Selinda 4 true
+i Meagan 9 true
+i Mignonne 15 false
+i Louella 10 false
+i Leontine 16 false
+i Jerry 4 false
+s 480
+i Jewel 9 true
+i Cariotta 7 true
+i Lizabeth 5 false
+i Annemarie 19 true
+s 483
+i Loren 4 true
+i Tiphanie 12 false
+i Wanda 10 false
+i Kania 16 false
+i Aleta 10 false
+i Karoline 17 false
+i Kathlin 18 false
+i Riva 13 true
+i Andra 11 true
+i Rea 12 false
+i Wren 16 true
+i Jasmin 14 true
+i Edna 17 false
+i Marketa 5 true
+i Philippine 8 true
+i Jerrilee 1 false
+i Cindie 2 false
+i Maddy 11 true
+i Arlee 16 true
+i Shayna 17 false
+i Glenn 7 true
+s 493
+i Marietta 15 false
+i Helen-Elizabeth 2 false
+i Micheline 2 false
+i Barbra 1 false
+i Judie 13 true
+s 494
+i Lyndell 9 true
+i Brittany 13 true
+s 496
+s 496
+i Joice 12 true
+i Leena 15 true
+i Sibylle 1 false
+s 498
+i Natividad 12 true
+s 499
+i Auberta 18 true
+i Becca 7 false
+i Alyssa 2 true
+i Helsa 2 false
+i Codi 12 false
+i Randee 12 true
+s 502
+s 502
+i Gretna 12 true
+i Kathlin 20 false
+i Felisha 9 false
+i Wenda 7 false
+i Amity 5 false
+i Yelena 12 true
+i Larine 15 true
+i Fiorenze 19 true
+s 506
+i Glyn 7 true
+i Elva 2 true
+i Evvy 18 true
+i Sophi 5 false
+i Barrie 8 true
+s 510
+i Bonnie 1 false
+i Leora 14 false
+i Liza 18 false
+s 510
+i Glynis 14 false
+i Darcy 6 true
+i Freda 18 false
+i Marcelle 12 true
+i Rhiamon 19 true
+i Amity 3 false
+i Sephira 4 false
+i Silva 6 false
+s 513
+i Constantia 6 false
+i Star 10 true
+i Larine 7 false
+i Karilynn 13 true
+i Kaia 12 true
+i Cammie 6 true
+s 517
+s 517
+i Hally 7 false
+i Blondelle 15 false
+s 517
+i Godiva 6 true
+s 518
+i Mattie 15 true
+i Julienne 4 false
+i Michaeline 5 false
+i Annamaria 17 false
+i Barbra 8 false
+i Amelia 4 true
+s 520
+s 520
+s 520
+i Murielle 4 false
+i Dottie 13 true
+i Kassandra 11 true
+i Trista 2 false
+s 522
+i Crysta 6 false
+i Cissy 12 true
+i Winona 5 true
+i Jenn 10 false
+i Scarlet 6 false
+i Concordia 14 true
+i Karolina 15 true
+i Jessa 17 false
+i Cynde 13 true
+i Angele 15 false
+i Charline 7 true
+i Ayn 5 false
+i Tasha 8 true
+i Lorene 13 false
+i Rubi 11 true
+i Christine 4 false
+i Nell 18 true
+s 531
+i Lyndell 17 false
+i Millicent 17 false
+i Nancey 4 false
+i Esmaria 12 false
+i Tiphanie 2 false
+s 531
+i Cristina 15 true
+i Prudy 11 true
+s 533
+s 533
+i Dalila 16 false
+i Sheelah 3 false
+i Joelie 6 true
+i Godiva 2 false
+i Laurena 3 false
+i Cynthie 6 false
+s 534
+i Nedda 14 true
+s 535
+i Ruthe 5 false
+i Deina 20 false
+i Annemarie 12 false
+i Cathrine 10 true
+s 536
+i Joly 3 false
+i Dusty 2 true
+i Pet 1 true
+i De 5 false
+i Joscelin 3 true
+i Marcia 18 false
+i Almeda 16 false
+s 539
+i Georgianna 9 false
+s 539
+s 539
+s 539
+s 539
+i Bertina 2 false
+i Ailee 9 false
+i Betsey 12 false
+i Sephira 1 false
+i Bernette 10 true
+s 540
+s 540
+i Maurita 4 false
+i Andrea 2 true
+i Cristina 4 false
+i Adriane 16 true
+s 542
+i Chris 19 true
+i Daisi 5 true
+i Rozelle 9 false
+s 544
+s 544
+i Kyrstin 7 false
+s 544
+i Loren 6 false
+i Kathy 19 false
+i Cathyleen 13 true
+i Sibelle 18 true
+i Neely 13 false
+i Shaine 13 true
+i Lea 15 true
+s 548
+i Juliann 20 true
+i Becky 13 true
+i Manya 2 false
+s 550
+i Betty 15 true
+i TEirtza 3 true
+i Kristen 15 true
+i Netti 14 false
+i Dee 12 false
+i Nita 12 true
+i Mattie 10 false
+i Shoshana 3 true
+i Druci 9 true
+i Amandie 10 true
+s 557
+s 557
+i Gianina 14 false
+i Heath 7 true
+i Manya 13 false
+i Felicity 3 false
+i Riva 17 false
+i Tanitansy 5 true
+s 559
+i Tiphani 9 true
+i Fara 4 true
+i Shandra 11 false
+i Phoebe 6 false
+i Koressa 7 true
+s 562
+i Magdalena 20 true
+i Fiorenze 8 false
+i Netti 10 false
+s 563
+i Katy 4 false
+i Adrienne 16 true
+i Fanny 4 true
+i Star 5 false
+i Jenn 8 false
+i Karita 6 false
+s 565
+i Muriel 1 true
+i Christel 12 false
+s 566
+i Dyann 8 false
+i Constantia 20 false
+i Saloma 4 true
+i Celesta 13 false
+i Joye 18 true
+i Verna 5 false
+i Josi 20 false
+i Katrinka 12 true
+i Brande 20 true
+i Jenn 6 false
+i Leela 17 true
+i Lillian 15 false
+i Sissie 10 false
+i Jennilee 17 false
+s 571
+i Frankie 9 false
+i Barbra 2 false
+i Engracia 5 false
+s 571
+i Nanon 18 false
+i Malinda 20 false
+i Chrystal 7 false
+i Maia 10 false
+s 571
+i Antonietta 12 false
+s 571
+i Francine 16 false
+i Krystalle 4 true
+i Freda 16 false
+i Jessa 10 false
+i Nata 1 true
+i Dyann 15 false
+i Marice 16 true
+i Estell 7 false
+i Leena 17 false
+i Elga 16 false
+s 574
+i Eugenie 19 true
+i Carey 18 true
+s 576
+i Abagael 10 false
+s 576
+i Glyn 12 false
+i Helyn 14 true
+s 577
+i Bathsheba 18 true
+i TEirtza 20 false
+i Cally 18 true
+i Druci 10 false
+i Shandra 19 false
+s 579
+i Dreddy 10 false
+i Kimbra 20 true
+i Korella 12 false
+i Prudy 14 false
+i Shauna 11 true
+i Valera 4 true
+s 582
+i Carmella 16 false
+i Carmella 20 false
+i Lillian 3 false
+i Aubrey 17 false
+i Jennilee 15 false
+i Shannen 2 true
+i Dyanne 6 false
+i Lolly 7 true
+s 584
+i Jerrilee 19 false
+s 584
+i Lanni 13 true
+i Lorine 15 true
+i Moyna 7 true
+i Vanna 6 false
+i Bernette 13 false
+i Lorette 13 true
+s 588
+i Ardella 3 false
+i Loralie 14 true
+s 589
+s 589
+i Josi 19 false
+i Randee 11 false
+s 589
+s 589
+i Alfie 15 true
+i Marj 15 false
+i Emelita 12 true
+i Carlin 4 true
+i Antonietta 8 false
+s 592
+i Denna 20 false
+i Iolanthe 7 false
+i Ortensia 11 true
+i Fianna 1 true
+i Gerianna 7 true
+i Minna 16 true
+i Rica 20 true
+i Adrianne 15 true
+i Roana 8 true
+s 599
+i Corene 11 true
+i Marina 20 false
+s 600
+i Mattie 11 false
+i Janet 9 false
+s 600
+i Enrika 3 false
+i Merrile 9 false
+i Holly-Anne 11 true
+i Malinde 17 false
+i Ami 2 true
+i Yelena 14 false
+i Isabella 12 true
+i Calida 19 true
+i Catharine 18 true
+i Janetta 5 false
+i Vivyan 1 true
+i Joan 12 false
+s 606
+i Danette 5 true
+i Elset 12 false
+i Cynde 1 false
+i Alyssa 3 false
+i Felicity 11 false
+i Charline 9 false
+i Winnah 10 true
+i Felicia 4 false
+i Carlin 15 false
+i Clarey 9 true
+i Alida 17 true
+i Holly-Anne 1 false
+i Frederica 7 false
+i Silva 4 false
+i Cate 6 false
+i Gates 7 true
+i Cherey 2 true
+i Sephira 9 false
+s 612
+i Antonie 11 true
+i Marina 15 false
+i Dulcine 11 true
+i Larina 19 true
+s 615
+i Carri 9 true
+i Betsey 19 false
+i Lorine 17 false
+i Christie 9 true
+i Atlante 5 false
+i Kyla 13 true
+i Marta 15 true
+i Reyna 15 true
+i Catlee 20 true
+i Fern 8 false
+s 621
+i Emelita 7 false
+s 621
+i Alisun 13 true
+s 622
+i Giulia 10 true
+i Lyda 5 true
+i Nathalia 5 true
+s 625
+s 625
+i Daffy 19 false
+i Randee 18 false
+s 625
+i Janetta 10 false
+i Joni 11 true
+i Roxane 4 true
+i Effie 17 false
+i Felicity 13 false
+i Darcy 1 false
+s 627
+i Bianka 16 false
+i Sherill 6 true
+i Anatola 6 false
+i Star 19 false
+i Neila 13 false
+s 628
+i Josi 10 false
+i Tim 8 true
+i Franky 16 true
+i Lisetta 12 true
+s 631
+i Benetta 20 false
+s 631
+i Quintana 2 false
+i Ulla 13 false
+s 631
+s 631
+i Aline 2 true
+i Tonya 15 false
+i Corene 16 false
+s 632
+i Petronilla 5 false
+i Gnni 20 true
+i Catlee 12 false
+i Carine 12 true
+i Georgina 20 false
+i Crysta 4 false
+i Karisa 20 false
+s 634
+s 634
+i Shel 12 false
+i Merline 16 true
+i Ramona 1 true
+i Josi 4 false
+i Cariotta 4 false
+i Marina 16 false
+i Marsha 16 false
+i Vilma 14 false
+i Steffie 1 false
+i Silva 17 false
+i Fawn 12 false
+i Enrika 12 false
+i Zilvia 12 false
+i Lorette 20 false
+i Lorrayne 11 true
+i Fiorenze 1 false
+i Babbette 10 true
+i Ashlee 13 false
+i Joscelin 12 false
+i Fianna 19 false
+i Janetta 1 false
+i Cinnamon 2 false
+i Elysia 20 false
+s 638
+i Patrizia 16 true
+i Ema 15 true
+i Kaia 11 false
+i Shayna 19 false
+i Jocelyne 15 true
+i Sadella 7 false
+i Annissa 20 false
+i Sib 14 false
+i Rea 10 false
+s 641
+s 641
+i Marketa 2 false
+s 641
+i Lillian 10 false
+i Cordi 14 true
+s 642
+i Wylma 5 false
+i Pauletta 16 false
+i Robinetta 10 true
+i Betsey 5 false
+i Enrika 1 false
+s 643
+s 643
+i Alex 4 true
+s 644
+s 644
+i Tate 9 true
+s 645
+i Neely 7 false
+i Jolyn 19 false
+i Winnah 20 false
+i Petronilla 3 false
+s 645
+s 645
+i Jazmin 3 true
+i Vinnie 7 true
+i Riva 2 false
+s 647
+i Iolanthe 18 false
+i Alyda 1 true
+i Cherilyn 18 false
+i Sharia 15 true
+i Imelda 7 true
+s 650
+i Cinnamon 7 false
+s 650
+s 650
+i Eveline 10 true
+i Ruthe 14 false
+i Cathyleen 7 false
+i Dre 14 false
+i Jessika 5 true
+i Blondelle 4 false
+i Merl 4 false
+i Kathie 20 true
+i Helen 10 false
+i Julienne 6 false
+i Saloma 3 false
+s 653
+s 653
+i Kellen 9 false
+s 653
+i Dani 20 false
+i Joleen 2 false
+i Valida 13 false
+i Karola 10 false
+i Tanitansy 18 false
+s 653
+i Ester 15 false
+s 653
+i Nada 7 false
+i Kellyann 6 true
+i TEirtza 1 false
+i Amelita 16 false
+i Ileane 5 true
+s 655
+i Shawn 19 false
+s 655
+i Denna 6 false
+i Betsey 5 false
+s 655
+i Ardra 15 true
+i Frieda 20 false
+s 656
+s 656
+i Zsa 20 true
+i Winny 20 false
+i Etty 5 true
+i Wendie 20 false
+i Brianne 6 false
+s 658
+s 658
+i Paulette 15 true
+s 659
+i Fan 13 false
+s 659
+i Philippine 11 false
+i Tove 7 false
+i Star 2 false
+i Dasha 6 false
+s 659
+i Daffy 15 false
+i Cheslie 7 false
+s 659
+i Della 11 false
+i Cherilyn 13 false
+i Philippine 6 false
+i Trenna 4 true
+s 660
+i Larisa 18 false
+s 660
+i Elana 5 false
+s 660
+s 660
+i Nicoline 12 false
+i Roselia 20 false
+i Elset 3 false
+i Kendre 16 false
+s 660
+i Marthe 15 true
+i Carin 11 false
+i Augustina 11 false
+i Jessalin 5 false
+i Phoebe 14 false
+s 661
+i Elva 20 false
+i Filippa 7 true
+i Analise 13 true
+i Zsa 13 false
+i Brande 4 false
+s 663
+i Marsha 6 false
+i Bonnie 18 false
+i Filippa 6 false
+s 663
+i Tiphanie 1 false
+i Joan 6 false
+i Breena 1 false
+i Jasmin 2 false
+i Jewel 7 false
+i Aurelie 10 false
+i Zonda 4 true
+i Carine 13 false
+s 664
+i Almeda 14 false
+i Clemmie 9 false
+i Meghan 2 true
+s 665
+i Justina 20 false
+i Tamera 13 true
+i Roselia 11 false
+s 666
+i Madlen 11 false
+i Jan 5 false
+i Karoline 16 false
+i Cinnamon 10 false
+i Coralyn 14 true
+s 667
+i Tonya 5 false
+i Jeannine 13 false
+i Devina 18 false
+s 667
+s 667
+i Aurelie 6 false
+i Arlee 12 false
+i Norean 10 true
+s 668
+i Holly 7 false
+i Carena 16 false
+i Gavrielle 20 true
+i Sephira 5 false
+i Danette 13 false
+i Wenona 20 false
+i Aloisia 4 true
+i Jasmin 4 false
+i Annabelle 20 false
+i Gerda 13 true
+i Codi 1 false
+s 671
+s 671
+i Clarisse 18 true
+s 672
+i Cassi 7 true
+i Sheeree 2 false
+i Nicoline 18 false
+s 673
+i Annadiana 7 true
+s 674
+s 674
+i Maurita 5 false
+s 674
+i Star 4 false
+i Henriette 14 false
+i Mattie 8 false
+s 674
+i Chelsey 3 false
+i Hetty 5 false
+i Sibelle 9 false
+i Janel 7 true
+s 675
+i Helsa 1 false
+i Holli 12 false
+i Alex 16 false
+i Manda 3 true
+i Cally 4 false
+i Samaria 16 true
+i Janet 10 false
+i Loella 18 true
+i Audrey 18 true
+i Avis 12 false
+i Margeaux 13 false
+i Kally 11 false
+i Clementina 1 true
+i Eileen 5 false
+i Susana 1 true
+s 681
+s 681
+s 681
+s 681
+i Alfie 8 false
+i Katrinka 13 false
+i Nathalie 16 true
+s 682
+i Andrea 9 false
+s 682
+i Meagan 2 false
+i Annamaria 14 false
+i Constantia 4 false
+i Koo 17 false
+i Martelle 2 true
+s 683
+i Gail 13 true
+i Ethyl 11 false
+i Eveline 2 false
+i Annissa 10 false
+s 684
+s 684
+i Kial 13 true
+s 685
+s 685
+i Chelsey 16 false
+s 685
+i Hallie 18 true
+s 686
+i Ealasaid 12 false
+s 686
+i Brandi 5 false
+i Margeaux 5 false
+i Joan 19 false
+i Kimbra 9 false
+i Nicholle 13 false
+i Gretel 3 true
+s 687
+s 687
+i Lia 20 true
+i Vilma 9 false
+i Liza 8 false
+s 688
+i Ann-Marie 2 false
+s 688
+i Vikky 19 true
+i Tuesday 9 true
+i Augusta 13 false
+i Caryn 5 true
+i Arlina 1 false
+s 691
+i Willette 18 true
+i Devi 8 false
+i Carey 5 false
+i Glynis 19 false
+i Rubie 13 true
+s 693
+i Marketa 7 false
+i Berthe 17 false
+i Mona 1 true
+s 694
+s 694
+i Loraine 6 true
+i Agatha 18 true
+i Sheena 10 true
+i Aili 8 true
+i Gail 18 false
+s 698
+i Merl 15 false
+i Leontyne 3 false
+i Scarlet 12 false
+i Alexi 17 true
+i Ealasaid 16 false
+i Karilynn 3 false
+s 699
+i Juditha 19 true
+i Arden 11 true
+i Pauletta 13 false
+i Beatriz 14 true
+i Blondelle 4 false
+i Tove 6 false
+i Cherilyn 4 false
+s 702
+i Odella 18 false
+i Caryn 15 false
+i Sunshine 3 true
+i Pegeen 18 true
+s 704
+i Margeaux 10 false
+i Isabella 7 false
+i Korella 20 false
+i Margarette 2 false
+i Caitlin 6 true
+s 705
+i Cariotta 2 false
+i Elset 9 false
+s 705
+i Dael 1 true
+i Clementina 20 false
+i Annabelle 12 false
+i Arlana 1 false
+i Franny 8 true
+i Ilene 16 true
+s 708
+i Sissie 1 false
+i Jessalin 9 false
+i Jessika 14 false
+i Tiphanie 20 false
+i Ethyl 9 false
+i Golda 13 false
+i Josselyn 13 false
+s 708
+i Sibilla 1 false
+s 708
+i Robinett 19 false
+i Cassi 5 false
+i Brittney 10 false
+i Devinne 11 false
+i Gates 19 false
+s 708
+s 708
+i Hali 14 false
+s 708
+i Ellissa 6 false
+i Ashlie 19 true
+i Tate 9 false
+i Natty 7 false
+s 709
+i Krystalle 15 false
+i Marlane 7 true
+i Valera 3 false
+i Charla 5 false
+i Merrie 20 true
+s 711
+i Georgette 11 false
+i Talia 17 false
+i La 6 false
+i Daryl 2 true
+s 712
+i Ruthe 4 false
+s 712
+i Christie 5 false
+s 712
+i Loraine 16 false
+i Meagan 2 false
+i Nan 19 true
+s 713
+i Annabel 20 true
+i Bendite 20 false
+i Christel 12 false
+s 714
+i Ruthe 11 false
+i Meghann 18 true
+i Olympia 5 false
+i Peggy 12 false
+i Koressa 11 false
+s 715
+i Kathlin 12 false
+i Drona 11 true
+s 716
+i Jere 16 false
+s 716
+i Camel 4 false
+i Alexi 16 false
+s 716
+i Zilvia 14 false
+i Henriette 6 false
+i Caro 4 true
+s 717
+i Noreen 18 false
+s 717
+s 717
+i Lanni 13 false
+i Agatha 15 false
+i Amalita 17 true
+s 718
+i Netti 9 false
+i Crysta 14 false
+i Carin 16 false
+i Nettie 9 true
+i Fara 13 false
+i Glyn 16 false
+s 719
+i Belle 1 false
+i Aurelea 17 false
+i Cordie 2 true
+i Cordelie 6 true
+i Lottie 15 true
+i Danette 15 false
+i Ainslie 12 false
+i Melisenda 20 true
+i Petronella 20 false
+i Liza 20 false
+i Wanda 4 false
+i Floria 11 true
+s 724
+i Jeannine 9 false
+i Katy 19 false
+i Carena 11 false
+i Cordi 16 false
+i Larina 15 false
+i Kristen 18 false
+i Gay 9 false
+i Floria 7 false
+s 724
+s 724
+i Arleyne 10 true
+i Brittany 14 false
+i Christabel 5 true
+i Leda 11 false
+i Arluene 12 true
+i Anni 10 false
+s 727
+s 727
+i Karina 6 true
+i Terri 5 true
+i Judie 5 false
+i Ailyn 16 true
+i Goldie 15 true
+i Holly 17 false
+i Antonietta 18 false
+i Aline 1 false
+i Hally 16 false
+i Blondelle 9 false
+i Galina 16 true
+s 732
+s 732
+i Steffie 4 false
+i Willette 4 false
+s 732
+i Ermengarde 4 true
+i Caro 16 false
+i De 8 false
+i Vi 18 false
+i Ermengarde 20 false
+i Marlane 8 false
+i Sallyanne 3 true
+s 734
+i Goldi 1 false
+i Maurita 3 false
+i Ealasaid 8 false
+i Henriette 11 false
+i Florette 12 false
+i Amandie 14 false
+i Judie 6 false
+i Joscelin 20 false
+i Renie 18 true
+i Avis 12 false
+s 735
+s 735
+i Saloma 6 false
+i Ramona 16 false
+s 735
+i Manya 4 false
+i Raye 5 true
+i Dorette 16 true
+s 737
+i Channa 10 false
+s 737
+s 737
+s 737
+i Gilberta 13 true
+i Lotty 11 false
+i Drucy 13 false
+i Sissie 3 false
+s 738
+i Lizabeth 3 false
+i Marta 17 false
+i Holli 2 false
+i Carolyn 15 false
+i Krystal 6 false
+i Halli 12 true
+i Ruthe 16 false
+i Jerry 13 false
+i Emelita 19 false
+i Kellen 16 false
+i Corrine 5 false
+i Mignonne 9 false
+i Mirella 12 true
+i Yettie 10 true
+i Analise 3 false
+i Jami 13 true
+i Sibelle 4 false
+i Amelia 7 false
+i Mireielle 19 false
+i Gretel 14 false
+s 742
+i Justinn 5 true
+i Eustacia 15 false
+i Audrey 14 false
+i Elfrida 12 false
+s 743
+i Holli 1 false
+i Valida 17 false
+i Jazmin 13 false
+i Imelda 19 false
+s 743
+i Rubi 19 false
+i Selle 2 true
+i Allis 3 true
+s 745
+i Krystal 13 false
+i Kali 5 false
+i Clarey 8 false
+i Gabbi 2 false
+i Milicent 17 true
+i Lea 9 false
+i Rina 15 false
+i Theresita 15 false
+i Uta 20 true
+i Juanita 2 false
+s 747
+i Arabella 9 true
+i Sibylle 11 false
+s 748
+s 748
+i Gerda 13 false
+i Pippy 6 false
+i Kathy 2 false
+i Danette 4 false
+i Corrine 14 false
+s 748
+s 748
+i Jeanelle 5 true
+s 749
+i Imelda 6 false
+i Shanta 15 true
+i Cristina 5 false
+s 750
+s 750
+s 750
+i Kendre 1 false
+s 750
+i Camella 2 true
+i Vivyan 2 false
+i Dorita 20 false
+i Ramona 9 false
+i Astrid 4 false
+s 751
+i Ashlee 16 false
+i Susana 13 false
+i Michaela 13 false
+i Nancey 10 false
+s 751
+s 751
+i Kylie 15 true
+i Celestyna 3 false
+i Alma 13 true
+i Devina 14 false
+i Lilah 19 false
+i Cordi 10 false
+i Shayna 8 false
+i Galina 17 false
+i Helen 7 false
+i Arlena 11 false
+i Stoddard 6 true
+i Orelle 4 false
+i Gianina 10 false
+s 754
+i Lethia 20 true
+i Vivyan 18 false
+s 755
+s 755
+i Ursa 7 false
+i Randene 9 true
+i Cordi 2 false
+s 756
+i Lela 3 false
+i Elianore 15 true
+i Ainslie 13 false
+i Adrianne 12 false
+i Estelle 16 true
+i Tanitansy 2 false
+i Christen 4 false
+s 758
+i Ronny 19 true
+s 759
+i Jan 8 false
+i Mag 12 true
+i Shandra 14 false
+i Catherin 5 true
+i Felicity 5 false
+s 761
+i Wanda 5 false
+i Anatola 4 false
+i Neely 4 false
+i Kania 18 false
+i Golda 1 false
+i Winnifred 5 false
+s 761
+i Nance 3 false
+i Frederica 8 false
+i Caryn 17 false
+i Amber 6 false
+s 761
+s 761
+i Suzanna 17 false
+i Joelie 8 false
+i Laurene 18 true
+i Austine 6 false
+i Linette 14 false
+i Marietta 5 false
+i Ortensia 18 false
+i Deb 12 true
+i Anni 14 false
+s 763
+i Grier 20 false
+i Lexy 20 true
+i Kimberlyn 8 true
+s 765
+i Amelie 8 true
+i Anabella 4 false
+s 766
+s 766
+i Tonya 12 false
+i Avis 5 false
+i Ranique 15 true
+i Paulina 9 false
+s 767
+i Clair 16 false
+i Cinnamon 19 false
+i Hope 14 true
+s 768
+i Julita 12 true
+i Lorene 6 false
+i Robinetta 14 false
+i Bev 1 false
+i Karina 3 false
+i Elianore 2 false
+s 769
+s 769
+i Ann-Marie 9 false
+s 769
+i Cathryn 15 true
+i Buffy 18 false
+i Danila 18 true
+i Emmalynn 10 false
+i Arden 3 false
+i Noemi 2 true
+i Saraann 19 false
+i Felicia 9 false
+i Kristina 15 false
+i Alicia 6 false
+s 772
+s 772
+s 772
+i Corilla 13 false
+i Shoshana 2 false
+i Virginie 13 false
+i Blondell 11 false
+i Hermione 14 true
+i Winona 5 false
+s 773
+i Blithe 19 false
+i Phyllys 7 false
+i Marthe 1 false
+s 773
+i Allis 17 false
+i Marjorie 19 false
+i Adiana 6 false
+i Laure 7 false
+i Valina 10 false
+i Cele 15 false
+i Robinett 19 false
+i Meridith 10 false
+i Jasmin 20 false
+i Dyann 6 false
+i Neila 8 false
+s 773
+i Lolita 8 true
+i Carey 10 false
+i Perle 17 false
+i Christel 16 false
+i Fancie 9 false
+i Julienne 11 false
+i Dalila 4 false
+i Tammy 18 true
+i Riannon 3 true
+i Milka 17 true
+i Renie 5 false
+i Vivia 3 true
+i Danya 17 false
+i Shannen 11 false
+s 778
+s 778
+s 778
+i Yettie 12 false
+i Hazel 2 true
+i Ruby 18 true
+i Terri 8 false
+s 780
+s 780
+i Winnah 16 false
+i Agnola 18 true
+i Giulia 18 false
+i Jennilee 5 false
+i Guinevere 2 true
+s 782
+s 782
+i Corilla 9 false
+i Talia 3 false
+i Trista 6 false
+i Cindie 11 false
+i Elset 13 false
+i Elane 2 true
+i Petronilla 12 false
+i Danette 18 false
+i De 17 false
+i Maud 6 false
+i Alanah 1 true
+i Ashlee 2 false
+i Alex 17 false
+s 784
+i Daffy 8 false
+s 784
+i Tonya 18 false
+i Wallie 10 true
+i Tamera 14 false
+i Judie 3 false
+s 785
+s 785
+i Miquela 6 false
+i Arleyne 17 false
+i Winifred 3 true
+s 786
+i Fianna 16 false
+i Allis 15 false
+i Kathlin 7 false
+s 786
+s 786
+s 786
+i Anabella 9 false
+i Nollie 12 false
+i Korella 7 false
+i Esther 20 true
+i Marsha 20 false
+s 787
+i Sheeree 20 false
+i Amandie 8 false
+i Evy 17 false
+i Engracia 8 false
+i Kameko 15 false
+s 787
+i Esmeralda 15 true
+i Tiphanie 11 false
+i Charlotte 3 false
+i Annabel 8 false
+i Karola 18 false
+i Nara 10 false
+i Kiele 18 false
+i Rubi 2 false
+i Arabele 15 true
+i Daile 8 true
+s 790
+i Ashleigh 17 true
+i Tilly 2 false
+i Doretta 19 false
+i Minna 9 false
+i Cissy 19 false
+i Bertha 5 false
+i Ortensia 1 false
+i Ariana 16 true
+i Tanitansy 12 false
+i Christalle 17 true
+i Heddie 9 false
+i Isidora 17 false
+s 793
+i Katrinka 2 false
+i Netti 2 false
+i Abbe 10 false
+i Ulla 1 false
+i Allis 6 false
+i Pietra 13 true
+i Tana 18 false
+i Denna 16 false
+s 794
+s 794
+s 794
+i Berthe 17 false
+i Bev 12 false
+i Crysta 19 false
+s 794
+i Kylie 8 false
+i Jan 11 false
+s 794
+s 794
+i Tiffi 17 true
+i Juliann 13 false
+s 795
+s 795
+s 795
+i Eileen 18 false
+s 795
+i Annissa 14 false
+i Golda 14 false
+i Kaia 15 false
+i Calley 5 true
+i Francine 5 false
+i Jilly 7 false
+i Ianthe 14 false
+i Kimberli 4 false
+s 796
+i Eustacia 8 false
+i Nicolle 6 false
+i Leontyne 11 false
+i Atlante 18 false
+s 796
+i Sephira 16 false
+i Alikee 18 true
+i Annabel 14 false
+i Carey 16 false
+i Randene 18 false
+i Electra 1 true
+i Luciana 10 false
+i Zsa 1 false
+i Deerdre 11 false
+s 798
+i Cassy 13 true
+i Shelly 14 false
+i Leonanie 16 true
+i Rozelle 12 false
+i Carly 20 true
+i Michal 3 true
+i Saraann 2 false
+i Rozele 10 true
+i Honoria 10 true
+i Sephira 12 false
+i Ardra 5 false
+i Jolyn 20 false
+s 804
+s 804
+i Estelle 5 false
+s 804
+i Mariele 1 true
+i Nina 1 true
+i Beverlee 8 true
+i Devi 20 false
+i Florinda 11 true
+i Caryn 2 false
+i Patty 11 true
+i Larisa 15 false
+i Daile 14 false
+i Selinda 16 false
+i Talia 10 false
+s 809
+i Katleen 5 true
+i Carey 12 false
+i Etta 12 false
+i Brenda 2 false
+i Rozele 13 false
+i Shanta 3 false
+i Tiphanie 8 false
+i Madelaine 6 true
+i Elbertina 2 true
+s 812
+i Drusi 7 false
+i Dorise 20 true
+i Ronna 1 false
+s 813
+i Lark 10 true
+i Zorana 7 false
+i Hedda 3 false
+s 814
+i Terri 15 false
+i Juana 16 true
+i Ingrid 15 true
+i Wallie 9 false
+i Petra 12 true
+i Dael 15 false
+i Ardella 5 false
+i Tracee 7 false
+i Lorene 12 false
+i Petra 19 false
+i Fawn 7 false
+s 817
+i Fara 15 false
+s 817
+s 817
+i Cele 19 false
+i Deerdre 5 false
+i Lea 18 false
+i Randee 4 false
+s 817
+s 817
+i Aurelea 13 false
+i Berthe 11 false
+s 817
+s 817
+i Clerissa 11 false
+i Kym 15 true
+i Abagael 10 false
+s 818
+s 818
+i Netta 1 false
+i Christiana 12 true
+s 819
+s 819
+i Ronna 3 false
+i Maud 20 false
+i Glenn 14 false
+i Isidora 5 false
+i Charline 15 false
+i Adrianne 16 false
+i Meagan 18 false
+i Cindi 4 true
+i Sibylle 4 false
+s 820
+i Doretta 5 false
+i Sherry 19 true
+s 821
+i Janith 5 false
+i Cilka 7 true
+i Bobbette 12 true
+i Astrid 2 false
+i Dianna 3 false
+i Tracee 15 false
+i Tamera 16 false
+s 823
+s 823
+i Kameko 14 false
+i Brenda 4 false
+i Carena 11 false
+i Jaymee 18 true
+i Cathe 13 false
+s 824
+i Cindi 9 false
+s 824
+i Dyanne 2 false
+i Kimberlyn 16 false
+i Suzann 19 false
+s 824
+i Annissa 2 false
+i Colly 13 true
+s 825
+i Almeda 13 false
+s 825
+s 825
+i Jodie 2 true
+i Rhiamon 13 false
+i Jaymee 4 false
+i Koressa 14 false
+s 826
+i Arlana 18 false
+i Laurella 6 true
+s 827
+i Jodie 8 false
+i Blithe 6 false
+i Chrystal 7 false
+s 827
+s 827
+s 827
+i Ariana 6 false
+i Jorry 3 true
+i Silva 13 false
+s 828
+i Monika 11 false
+s 828
+i Bonnie 14 false
+s 828
+i Nita 12 false
+i Alyda 2 false
+i Merl 5 false
+i Maddy 16 false
+s 828
+i Juditha 15 false
+i Camella 12 false
+s 828
+i Sib 4 false
+i Brittany 17 false
+i Juana 19 false
+s 828
+s 828
+s 828
+i Cari 14 true
+i Amity 18 false
+i Laurella 2 false
+i Carena 18 false
+s 829
+s 829
+i Monika 7 false
+i Lynelle 15 false
+i Hermione 18 false
+i Glyn 15 false
+i Karina 9 false
+i Karen 7 true
+i Charlotte 1 false
+i Zora 1 false
+i Arlina 8 false
+i Sherill 14 false
+s 830
+i Ermengarde 7 false
+i Hildegaard 4 true
+i Bendite 19 false
+s 831
+i Leonanie 3 false
+i Lisbeth 17 true
+s 832
+i Amalita 13 false
+i Nan 11 false
+i Paule 7 true
+i Maud 13 false
+i Elana 14 false
+i Wallie 7 false
+i Sella 6 false
+i Tatum 4 true
+i Andrea 1 false
+i Alma 1 false
+i Ursola 14 true
+i De 16 false
+i Arden 11 false
+i Becky 17 false
+s 835
+i Glynnis 7 true
+i Bendite 7 false
+i Robinett 2 false
+i Denna 15 false
+i Clementina 6 false
+i Alayne 4 false
+i Cate 12 false
+i Merline 5 false
+i Dalila 20 false
+i Bertha 4 false
+i Doretta 14 false
+i Agatha 3 false
+i Hedvige 10 false
+i Georgina 14 false
+i Susannah 7 false
+i Phebe 4 false
+i Patrizia 2 false
+i Tiphani 3 false
+i Sissie 16 false
+i Aurelie 8 false
+s 836
+i Pegeen 20 false
+i Gisella 20 true
+i Lorette 9 false
+i Tilly 7 false
+i Cathryn 4 false
+i Nara 15 false
+i Gabbi 14 false
+s 837
+i Ailee 15 false
+i Constantia 14 false
+i Wallie 3 false
+i Roda 20 true
+s 838
+i Fianna 12 false
+i Clementina 14 false
+i Barbaraanne 6 false
+s 838
+i Caty 7 false
+s 838
+i Roxy 19 true
+i Jeanette 19 false
+i Lulu 2 false
+s 839
+i Della 14 false
+i Ellissa 12 false
+i Easter 6 true
+i Halli 13 false
+s 840
+i Heddie 7 false
+i Kellie 5 false
+i Susannah 19 false
+s 840
+i Natividad 16 false
+i Brenna 11 false
+i Audrey 20 false
+i Lyda 12 false
+i Ursuline 19 true
+i Odette 16 true
+i Cathryn 16 false
+i Fan 10 false
+i Juli 14 true
+i Moyna 19 false
+i Catarina 8 true
+s 844
+i Golda 8 false
+s 844
+i Susana 16 false
+i Cissy 8 false
+i Colly 9 false
+i Karita 5 false
+s 844
+i Agatha 16 false
+i Lisbeth 12 false
+i Vikky 7 false
+s 844
+s 844
+i Riva 20 false
+s 844
+i Hermione 4 false
+i Tatum 2 false
+i Jilleen 15 true
+i Georgianna 2 false
+i Nina 7 false
+i Betty 15 false
+i Willa 15 false
+i Karita 15 false
+i Tim 1 false
+i Clerissa 1 false
+s 845
+i Camel 8 false
+i Enrika 10 false
+s 845
+i Stoddard 17 false
+i Morganica 16 true
+s 846
+i Lilllie 13 true
+s 847
+s 847
+i Prudy 17 false
+s 847
+i Drucy 4 false
+i Sibelle 6 false
+s 847
+s 847
+s 847
+s 847
+s 847
+i Sarah 19 true
+s 848
+i Beatriz 9 false
+i Arlina 1 false
+s 848
+i Laverne 20 true
+i Ree 19 true
+s 850
+i Agnola 10 false
+i Jenifer 7 false
+i Brenda 5 false
+s 850
+i Lanita 8 false
+i Chlo 9 false
+s 850
+s 850
+i Dael 11 false
+i Pegeen 8 false
+i Lynde 6 true
+i Ardra 9 false
+i Yovonnda 14 true
+i Sallyanne 14 false
+s 852
+i Carine 15 false
+i Josselyn 17 false
+i Bertha 16 false
+i Dyann 19 false
+i Tammy 11 false
+i Ariana 5 false
+i Trista 17 false
+i Daffi 12 true
+i Ranique 17 false
+i Buffy 9 false
+i Kyrstin 8 false
+i Linnet 11 true
+i Peggy 16 false
+i Marylynne 19 false
+i Coralyn 2 false
+s 854
+i Iolanthe 13 false
+s 854
+i Adriane 19 false
+i Lotty 4 false
+i Brande 3 false
+i Ingrid 1 false
+i Nara 15 false
+s 854
+i Tina 20 true
+i Eveline 20 false
+i Cammie 9 false
+s 855
+i Concordia 10 false
+i Glennis 8 false
+i Arabele 20 false
+i Annemarie 11 false
+s 855
+i Noreen 16 false
+i Caitlin 19 false
+s 855
+s 855
+i Lanita 12 false
+s 855
+i Florinda 20 false
+i Mindy 17 true
+s 856
+i Florencia 4 true
+i Christabel 1 false
+i Modesta 2 false
+i Joanna 5 false
+i Zsa 5 false
+i Birgit 14 false
+i Marys 2 false
+i Carena 8 false
+i Jessalin 20 false
+i Jocelyne 13 false
+i Vikky 15 false
+s 857
+i Joan 6 false
+i Janetta 18 false
+i Lanae 8 false
+s 857
+i Berenice 15 false
+s 857
+i Wallie 3 false
+s 857
+i Fanny 2 false
+i Shawn 19 false
+i Bethany 12 true
+i Pierette 13 true
+i Kathy 5 false
+s 859
+i Fianna 7 false
+i Britteny 3 true
+i Ardra 5 false
+s 860
+i Kippie 8 true
+i Winnah 15 false
+i Nance 9 false
+i Franny 17 false
+s 861
+s 861
+s 861
+i Barby 11 false
+i Fanny 9 false
+i Brenda 6 false
+i Yettie 9 false
+i Moyna 15 false
+i Marcelline 5 true
+i Jenifer 5 false
+s 862
+i Alidia 11 true
+i Vivyan 17 false
+i Arluene 18 false
+i Linell 15 false
+i Roana 16 false
+s 863
+i Lizabeth 11 false
+i Ange 11 false
+s 863
+i Jocelyne 4 false
+i Ellette 12 true
+i Shelly 13 false
+i Charline 8 false
+i Karoline 17 false
+i Sheena 5 false
+i Darya 11 true
+i Arabella 4 false
+i Corene 18 false
+i Annabelle 11 false
+i Shaylah 12 true
+i Uta 7 false
+i Jodie 19 false
+i Lexy 12 false
+i Tiffi 13 false
+s 866
+i Shayna 2 false
+i Crystal 17 true
+i Pietra 15 false
+i Dollie 19 false
+i Brittney 12 false
+i Doretta 9 false
+s 867
+i Amber 14 false
+s 867
+i Hanna 19 true
+i Callie 3 false
+s 868
+i Christen 2 false
+s 868
+i Geri 11 false
+i Maurita 16 false
+s 868
+s 868
+i Amelita 3 false
+i Evangelin 15 true
+s 869
+s 869
+i Alicia 20 false
+i Karoline 3 false
+i Beverlee 2 false
+s 869
+i Stacee 12 true
+i Elva 8 false
+s 870
+i Hedda 13 false
+i Isis 11 true
+i Randene 18 false
+s 871
+i Rina 19 false
+i Catha 5 true
+i Kim 5 true
+s 873
+i Tanitansy 10 false
+i Philippe 1 false
+s 873
+s 873
+s 873
+i Junina 19 false
+i Michaela 13 false
+i Muire 15 false
+i Sonia 8 true
+i Zorana 9 false
+i Ruthe 2 false
+i Justinn 16 false
+s 874
+i Haley 11 true
+i Annmaria 14 true
+i Remy 8 true
+i Dasha 15 false
+s 877
+i Pauletta 7 false
+s 877
+s 877
+i Henrietta 18 true
+i Antonietta 7 false
+i Becky 17 false
+i Vanda 20 false
+s 878
+i Shel 11 false
+i Nathalie 4 false
+i Jennilee 20 false
+i Merl 19 false
+i Caro 20 false
+i Ursa 5 false
+s 878
+i Dyann 19 false
+s 878
+i Odelinda 15 false
+s 878
+i Gilberta 10 false
+i Calley 14 false
+i Alidia 9 false
+s 878
+i Jenny 19 false
+i Cassy 2 false
+i Ingeborg 19 false
+s 878
+i Hazel 19 false
+i Noreen 20 false
+i Betteanne 16 true
+i Rey 6 false
+s 879
+i Marcelle 12 false
+s 879
+i Helen 16 false
+i De 17 false
+s 879
+i Loraine 18 false
+i Glynis 1 false
+i Rozelle 5 false
+i Winnah 5 false
+i Bethany 13 false
+i Kelsi 14 true
+i Michaela 2 false
+i Koressa 20 false
+i Glynnis 19 false
+i Jenica 1 false
+i Andee 13 true
+i Gerda 10 false
+i Uta 10 false
+i Zsa 7 false
+i Malva 8 true
+s 882
+i Leda 7 false
+i Cathyleen 6 false
+i Vilma 7 false
+i Belle 12 false
+i Michal 14 false
+i Theresita 5 false
+i Ilene 4 false
+i Salaidh 2 false
+s 882
+i Linell 1 false
+i Murielle 10 false
+i Suzann 19 false
+i Nikkie 2 false
+i Selle 3 false
+i Isabella 1 false
+i Moll 18 true
+i Lia 20 false
+i Charla 5 false
+s 883
+s 883
+i Brynne 8 true
+i Riannon 15 false
+i Corrine 1 false
+i Glenn 2 false
+s 884
+i Catha 10 false
+i Wendie 15 false
+i Mil 13 false
+i Cindi 2 false
+i Ethyl 3 false
+i Sibelle 13 false
+i Emelita 6 false
+i Drucy 5 false
+i Melosa 5 false
+s 884
+s 884
+s 884
+i Jolyn 9 false
+s 884
+i Karita 3 false
+i Barby 10 false
+i Lanae 8 false
+i Salaidh 18 false
+i Yovonnda 14 false
+i Nanon 17 false
+i Marj 15 false
+s 884
+i Fern 9 false
+s 884
+i Mil 7 false
+s 884
+i Hedda 3 false
+s 884
+i Floria 8 false
+s 884
+i Kirsten 6 true
+s 885
+i Amelie 12 false
+i Wren 13 false
+i Kial 3 false
+i Silva 15 false
+i Cindi 18 false
+i Sonya 18 false
+i Steffie 1 false
+i Karilynn 19 false
+i Juli 13 false
+i Kial 17 false
+i Vi 18 false
+s 885
+s 885
+i Marin 6 false
+i Jessalin 8 false
+i Justinn 4 false
+s 885
+i Elmira 17 true
+i Arden 18 false
+s 886
+i Valida 20 false
+i Valaree 6 true
+i Kristen 11 false
+i Elysia 19 false
+i Riannon 11 false
+i Heddie 17 false
+i Isidora 9 false
+i Alanah 12 false
+i Callie 5 false
+i Nina 20 false
+i Cindi 3 false
+i Prudy 4 false
+i Wendie 4 false
+s 887
+i Ann-Marie 1 false
+s 887
+i Doralia 4 true
+s 888
+i Guenna 20 false
+i Cordi 5 false
+i Codi 17 false
+i Barbaraanne 14 false
+i Karita 10 false
+s 888
+i Franny 14 false
+i Essie 19 false
+i Ange 12 false
+s 888
+i Yasmin 6 false
+i Kat 9 true
+i Annissa 4 false
+i Quintana 7 false
+i Loella 6 false
+s 889
+s 889
+i Lorette 20 false
+i Katharina 2 true
+i Bathsheba 20 false
+s 890
+i Drusi 20 false
+i Julienne 2 false
+s 890
+i Marcelle 5 false
+s 890
+i Tilda 1 true
+i Tina 12 false
+i Daile 17 false
+i Lois 18 true
+i Dee 8 false
+i Rea 3 false
+i Chris 12 false
+i Kellie 8 false
+i Ailyn 5 false
+i Tuesday 14 false
+i Lelia 16 false
+i Bobbette 14 false
+i Agatha 7 false
+i Angele 6 false
+i Liza 8 false
+i Perla 16 false
+s 892
+s 892
+i Cathryn 18 false
+i Jeanette 2 false
+i Henrietta 12 false
+i Ester 13 false
+s 892
+i Evangelia 19 false
+i Aubrey 19 false
+i Kym 20 false
+i Gavrielle 20 false
+i Drusie 2 false
+i Evangelia 15 false
+i Cherilyn 6 false
+s 892
+i Clerissa 3 false
+i Elana 3 false
+i Dorette 9 false
+i Noreen 13 false
+i Anni 13 false
+s 892
+i Mufi 18 true
+i Juliann 4 false
+i Patrizia 19 false
+s 893
+i Sephira 9 false
+i Fan 4 false
+i Lanae 15 false
+i Gabbey 18 true
+s 894
+i Tony 12 true
+i Wren 19 false
+i Annamaria 2 false
+i Cate 11 false
+i Lorrayne 14 false
+i Joane 11 true
+i Calida 15 false
+i Annabelle 13 false
+i Sherill 3 false
+i Lark 13 false
+i Catha 6 false
+i Carolynn 16 false
+i Galina 2 false
+i Kania 17 false
+i Tilly 19 false
+i Alisun 7 false
+i Pegeen 15 false
+i Helen-Elizabeth 20 false
+i Brenna 11 false
+i Clementina 19 false
+i Chris 7 false
+s 896
+i Dodie 5 true
+i Wenonah 13 false
+i Esmeralda 17 false
+i Midge 5 true
+i Selle 14 false
+i Midge 14 false
+s 898
+i Andee 8 false
+i Juieta 15 false
+i Charla 19 false
+i Jenica 3 false
+i Jolyn 14 false
+i Merl 8 false
+i Giulia 9 false
+s 898
+i Kellie 19 false
+i Trista 7 false
+i Alison 18 false
+i Ingeborg 2 false
+s 898
+s 898
+i Vivie 14 false
+i Dyanne 15 false
+i Rosalia 10 false
+s 898
+s 898
+i Judie 3 false
+i Georgina 15 false
+i Crystal 4 false
+i Barby 8 false
+i Ursola 9 false
+i Joscelin 12 false
+i Estelle 14 false
+i Candace 15 true
+i Cherilyn 7 false
+s 899
+i Karita 3 false
+i Bertha 15 false
+s 899
+i Jessika 8 false
+i Gay 1 false
+i Cammie 2 false
+i Ashlie 13 false
+s 899
+i Janith 18 false
+i Brianne 17 false
+i Drusie 12 false
+i Birgit 6 false
+i Evvy 8 false
+i Agatha 4 false
+i Marice 17 false
+i Leilah 2 false
+i Dorette 15 false
+i Marcille 17 true
+s 900
+s 900
+s 900
+i Tallulah 10 true
+i Latrena 11 false
+i Morganica 18 false
+i Freda 18 false
+i Catherin 2 false
+i Mirella 17 false
+s 901
+i Saraann 2 false
+i Evangelin 4 false
+i Winni 5 false
+s 901
+i Gabbi 13 false
+i Fancie 19 false
+i Marcille 17 false
+i Tasha 4 false
+s 901
+i Electra 18 false
+i Adrianne 19 false
+s 901
+i Philippe 12 false
+i Phebe 18 false
+i Sheryl 2 true
+i Gretna 15 false
+i Kippie 14 false
+i Arluene 7 false
+i Rhoda 1 false
+i Zonda 13 false
+i Selene 1 true
+i Anabella 4 false
+i Kelsi 11 false
+i Astrid 1 false
+s 903
+i Nanon 9 false
+i Lilllie 10 false
+i Jillana 15 false
+i Sallyanne 13 false
+s 903
+i Danette 1 false
+i Lyda 2 false
+s 903
+i Koo 9 false
+i Shandra 7 false
+i Roda 3 false
+i Kaia 2 false
+i Gretna 1 false
+i Fiorenze 13 false
+i Petronella 20 false
+i Jami 15 false
+s 903
+i Rina 9 false
+i Suzanna 19 false
+s 903
+i Bev 6 false
+i Sibelle 18 false
+s 903
+i Marylynne 20 false
+i Bathsheba 1 false
+i Cesya 9 true
+i Darcy 11 false
+s 904
+i Christiana 17 false
+i Kat 4 false
+s 904
+i Karisa 14 false
+i Robinetta 8 false
+i Nettie 17 false
+s 904
+i Arlina 2 false
+i Cordelie 12 false
+s 904
+i Afton 4 false
+i Agatha 2 false
+i Afton 5 false
+i Sephira 15 false

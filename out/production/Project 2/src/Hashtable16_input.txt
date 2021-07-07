@@ -1,0 +1,501 @@
+17
+s 0
+s 0
+s 0
+r Austine false
+g Prissie null
+g Leandra null
+r Nedi false
+s 0
+s 0
+r Heloise false
+i Prissie 3 true
+r Courtnay false
+i Lucie 1 true
+r Evita false
+s 2
+s 2
+i Camilla 9 true
+i Jsandye 10 true
+g Lorri null
+s 4
+r Caresa false
+i Lucina 17 true
+c Jessa false
+i Verla 5 true
+s 6
+c Nani false
+c Gloriane false
+s 6
+c Rois false
+i Pooh 19 true
+g Glennis null
+i Marianne 5 true
+c Celia false
+g Wally null
+s 8
+r Elvera false
+s 8
+s 8
+c Verla true
+g Sherrie null
+c Reta false
+i Selie 18 true
+c Codi false
+r Isabel false
+c Maureene false
+c Bonita false
+r Evita false
+s 9
+g Lorri null
+i Viviana 6 true
+r Tobey false
+r Lucie true
+i Glennis 2 true
+s 10
+r Caresa false
+i Prissie 6 false
+s 10
+i Nani 19 true
+r Jessa false
+s 11
+g Carita null
+s 11
+i Aurelie 16 true
+g Evita null
+c Marabel false
+c Sherrie false
+c Bernadette false
+c Martie false
+i Charita 10 true
+i Loni 3 true
+g Carmelle null
+r Pearle false
+i Lucina 7 false
+r Loni true
+r Dorthea false
+i Celia 4 true
+r Leandra false
+g Aida null
+r Dorthea false
+c Prissie true
+s 14
+i Brinn 19 true
+i Kaitlynn 13 true
+c Sabra false
+s 16
+c Tobey false
+s 16
+r Rosalinde false
+g Kylen null
+s 16
+g Wally null
+s 16
+i Rosa 10 true
+c Wally false
+r Isabel false
+s 17
+r Selie true
+i Marabel 17 true
+c Pearle false
+i Querida 16 true
+i Lucina 15 false
+g Bonita null
+r Courtnay false
+i Savina 14 true
+i Zsazsa 19 true
+g Codi null
+i Inna 15 true
+g Charita 10
+c Jsandye true
+r Maureene false
+i Pearle 3 true
+i Wally 18 true
+g Meade null
+i Dyanne 1 true
+i Elmira 18 true
+s 25
+r Daffi false
+s 25
+c Ara false
+r Janie false
+s 25
+c Myra false
+s 25
+s 25
+i Caresa 10 true
+r Dyanne true
+r Danit false
+s 25
+s 25
+i Ara 3 true
+r Rosa true
+i Margit 7 true
+s 26
+r Salaidh false
+s 26
+g Sabra null
+i Wally 20 false
+s 26
+c Loni false
+r Marianne true
+i Margit 16 false
+s 25
+i Ara 12 false
+i Salaidh 12 true
+i Margit 14 false
+g Martie null
+i Celia 10 false
+s 26
+s 26
+i Bonita 6 true
+i Brynna 10 true
+c Nani true
+c Marabel true
+s 28
+g Edi null
+c Dyanne false
+g Evita null
+r Aida false
+i Maegan 1 true
+i Jennifer 14 true
+i Megen 19 true
+r Michaelina false
+c Querida true
+i Lucina 2 false
+i Tammi 18 true
+c Pooh true
+i Sherrie 16 true
+i Brynna 17 false
+s 33
+r Tobey false
+r Martie false
+c Jsandye true
+r Eryn false
+s 33
+s 33
+r Myra false
+r Austine false
+s 33
+i Jessa 5 true
+c Selie false
+r Isabel false
+c Tobey false
+r Rois false
+g Gloriane null
+c Margit true
+c Meade false
+c Lucie false
+s 34
+c Nani true
+s 34
+i Leandra 15 true
+c Nani true
+c Evania false
+s 35
+i Joly 3 true
+c Selie false
+g Bernadette null
+r Verla true
+i Martie 11 true
+g Joly 3
+r Viviana true
+c Elvira false
+g Rosalinde null
+c Evita false
+r Jessa true
+r Rosa false
+i Wally 6 false
+c Shel false
+r Alie false
+g Melania null
+c Jennifer true
+s 34
+i Camilla 17 false
+i Myra 15 true
+r Leandra true
+c Aurelie true
+r Ansley false
+r Karole false
+c Daffi false
+i Savina 3 false
+c Carita false
+c Carey false
+i Brynna 2 false
+i Rosa 6 true
+s 35
+s 35
+g Pooh 19
+c Edi false
+i Binnie 20 true
+r Pooh true
+i Rosalinde 14 true
+g Bernadette null
+s 36
+g Querida 16
+s 36
+r Crystal false
+g Analiese null
+s 36
+i Carita 17 true
+i Heloise 7 true
+c Maureene false
+g Maureene null
+s 38
+i Celia 3 false
+i Jsandye 14 false
+c Megen true
+c Bonita true
+c Nedi false
+g Rosa 6
+s 38
+g Karole null
+i Tammi 11 false
+i Aurelie 12 false
+i Dorian 9 true
+g Charita 10
+s 39
+g Blaire null
+s 39
+c Charita true
+r Austina false
+r Shel false
+g Camilla 9
+r Elvira false
+i Rois 15 true
+s 40
+i Prissie 2 false
+r Heloise true
+i Joly 6 false
+s 39
+i Aurelie 4 false
+i Sabrina 11 true
+r Aurelie true
+r Pooh false
+r Chantalle false
+c Emmie false
+i Wally 20 false
+s 39
+g Aurelie null
+i Crystal 12 true
+i Binnie 6 false
+g Rois 15
+r Selie false
+i Inna 1 false
+i Leandra 4 true
+r Ansley false
+i Rosalinde 8 false
+s 41
+r Pooh false
+s 41
+s 41
+g Chantalle null
+g Carey null
+g Austina null
+g Codi null
+c Prissie true
+c Row false
+i Selie 10 true
+g Evania null
+i Meade 1 true
+c Eryn false
+r Martie true
+g Charita 10
+s 42
+c Joly true
+c Carita true
+i Sabrina 18 false
+i Row 5 true
+c Carita true
+i Megen 15 false
+s 43
+i Maureene 15 true
+c Dyanne false
+r Michaelina false
+s 44
+c Celia true
+r Wally true
+i Marianne 9 true
+r Aida false
+i Shel 4 true
+r Binnie true
+s 44
+i Edi 2 true
+g Karole null
+i Joly 11 false
+g Maegan 1
+c Crystal true
+s 45
+g Glennis 2
+s 45
+r Michaelina false
+r Savina true
+g Loni null
+s 44
+s 44
+i Marianne 5 false
+c Felicia false
+i Alie 16 true
+s 45
+g Jsandye 10
+i Myra 13 false
+i Salaidh 15 false
+i Elvira 14 true
+i Rosalinde 4 false
+g Dyanne null
+s 46
+i Sabrina 14 false
+r Martie false
+s 46
+i Edi 15 false
+c Joly true
+g Evita null
+s 46
+c Reta false
+i Karia 12 true
+i Joly 18 false
+i Isabel 10 true
+g Marabel 17
+c Caresa true
+r Lily false
+g Inna 15
+i Dotty 7 true
+g Isabel 10
+r Lucie false
+i Nani 6 false
+g Heloise null
+g Elvira 14
+g Carita 17
+i Rosalinde 5 false
+c Guillema false
+g Lucina 17
+i Lily 3 true
+i Rosa 4 false
+i Leandra 11 false
+c Karole false
+s 50
+i Jsandye 15 false
+g Verla null
+r Binnie false
+i Felicia 18 true
+g Shel 4
+s 51
+r Verla false
+i Lorri 12 true
+r Leandra true
+r Bonita true
+r Lucina true
+i Chantalle 11 true
+r Rosa true
+r Viviana false
+i Row 2 false
+i Bonita 7 true
+g Felicia 18
+i Edi 9 false
+g Janie null
+r Gloriane false
+c Karia true
+i Blaire 4 true
+c Dyanne false
+i Reta 12 true
+i Maureene 6 false
+i Ara 9 false
+s 52
+s 52
+i Pooh 5 true
+s 53
+c Brynna true
+s 53
+c Sabrina true
+g Kaitlynn 13
+s 53
+s 53
+c Inna true
+c Zsazsa true
+g Kimberly null
+g Carmelle null
+c Lorri true
+i Edi 11 false
+i Analiese 10 true
+c Shel true
+g Maureene 15
+i Camilla 13 false
+i Felicia 5 false
+i Michaelina 20 true
+i Dorian 2 false
+s 55
+i Maureene 11 false
+g Guillema null
+i Melania 2 true
+r Carey false
+i Nani 3 false
+c Isabel true
+r Brinn true
+s 55
+s 55
+s 55
+g Heloise null
+i Sabrina 1 false
+i Rois 5 false
+r Isabel true
+r Camilla true
+s 53
+s 53
+c Myra true
+s 53
+r Carmelle false
+s 53
+s 53
+i Myra 8 false
+r Karole false
+i Reta 15 false
+i Margit 6 false
+r Alie true
+g Emmie null
+s 52
+i Sabra 2 true
+s 53
+i Carey 13 true
+i Sabrina 15 false
+i Elvira 10 false
+c Meade true
+s 54
+c Kimberly false
+r Martie false
+s 54
+i Wally 4 true
+g Karia 12
+i Bernadette 17 true
+g Analiese 10
+i Binnie 4 true
+c Melania true
+g Carey 13
+s 57
+s 57
+r Bernadette true
+g Emmie null
+s 56
+i Dorthea 3 true
+r Blaire true
+i Jennifer 15 false
+i Elvera 20 true
+c Nani true
+i Maureene 6 false
+i Row 5 false
+i Brynna 9 false
+r Dyanne false
+c Karia true
+s 57
+c Carmelle false
+s 57
+c Brinn false
+c Maegan true
+i Maegan 11 false
+r Leandra false
+i Bonita 6 false
+i Bonita 3 false
+r Evania false
+r Felicia true
+s 56
+c Savina false
+s 56

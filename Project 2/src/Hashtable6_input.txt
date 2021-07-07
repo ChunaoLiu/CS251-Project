@@ -1,0 +1,1001 @@
+97
+c Fleurette false
+i Fleurette 6 true
+c Faye false
+c Abbye false
+i Tracee 4 true
+c Tonie false
+i Tonie 7 true
+i Brittan 3 true
+i Fleurette 8 false
+c Tonie true
+c Tonie true
+i Germana 6 true
+c Vinni false
+c Zena false
+c Lyndsie false
+i Elizabet 6 true
+c Faye false
+i Berte 9 true
+i Fleurette 5 false
+c Michel false
+i Augustina 6 true
+c Kelli false
+c Jenni false
+i Augustina 8 false
+c Germana true
+c Germana true
+c Tonie true
+i Tracee 5 false
+i Berte 10 false
+i Fleurette 6 false
+c Goldy false
+i Fleurette 5 false
+i Brittan 9 false
+i Abbye 6 true
+c Michel false
+i Brittan 5 false
+i Tonie 5 false
+c Berte true
+i Faye 1 true
+i Claudette 1 true
+c Harli false
+i Claudette 8 false
+i Vinni 8 true
+i Claudette 5 false
+i Lyndsie 2 true
+i Kelli 2 true
+c Jenni false
+c Augustina true
+c Faye true
+c Idalia false
+i Pennie 5 true
+i Brittan 1 false
+c Germana true
+c Sioux false
+c Germana true
+c Vinni true
+i Elizabet 1 false
+i Tracee 1 false
+i Sioux 4 true
+i Maureene 7 true
+c Fleurette true
+c Germana true
+c Augustina true
+i Michel 2 true
+i Berte 8 false
+i Berte 5 false
+c Fleurette true
+c Berte true
+i Sharleen 3 true
+c Tera false
+c Michel true
+c Twyla false
+i Faye 10 false
+i Inessa 3 true
+c Claudette true
+c Marthena false
+i Augustina 2 false
+c Marthena false
+i Inessa 7 false
+c Abbye true
+c Marthena false
+i Elizabet 8 false
+c Goldy false
+i Berte 5 false
+i Michel 4 false
+i Marthena 8 true
+c Sioux true
+c Pennie true
+c Berte true
+c Augustina true
+i Claudette 8 false
+c Goldy false
+i Sioux 4 false
+i Lyndsie 1 false
+c Claudette true
+i Lynna 1 true
+i Goldy 6 true
+c Idalia false
+c Pennie true
+c Sioux true
+i Twyla 4 true
+i Tracee 3 false
+c Fleurette true
+i Idalia 5 true
+c Augustina true
+i Inessa 9 false
+i Harli 5 true
+c Claudette true
+c Inessa true
+i Maureene 6 false
+c Michel true
+i Berte 2 false
+i Goldy 3 false
+c Michel true
+c Tonie true
+i Harli 3 false
+c Goldy true
+i Michel 1 false
+i Vinni 2 false
+i Tracee 6 false
+c Augustina true
+c Florie false
+i Lynna 4 false
+c Tonie true
+i Tera 1 true
+i Tracee 10 false
+i Augustina 3 false
+i Sharleen 8 false
+i Idalia 3 false
+c Elizabet true
+i Twyla 5 false
+c Inessa true
+c Marthena true
+i Goldy 8 false
+i Augustina 9 false
+c Florie false
+i Idalia 7 false
+i Germana 4 false
+c Abbye true
+i Sharleen 3 false
+i Tera 1 false
+c Florie false
+c Jenni false
+i Sharleen 3 false
+i Harli 2 false
+c Marthena true
+c Augustina true
+c Inessa true
+i Twyla 2 false
+i Michel 7 false
+c Germana true
+i Florie 3 true
+i Vinni 9 false
+i Kelli 8 false
+i Berte 5 false
+i Augustina 8 false
+i Germana 8 false
+i Florie 2 false
+c Tracee true
+c Tonie true
+i Zena 10 true
+i Marthena 7 false
+c Goldy true
+i Zena 7 false
+c Augustina true
+i Vinni 1 false
+i Twyla 7 false
+c Harli true
+i Vinni 6 false
+i Sharleen 3 false
+i Maureene 3 false
+c Vinni true
+c Claudette true
+i Vinni 2 false
+c Florie true
+i Inessa 5 false
+c Tracee true
+i Sioux 1 false
+i Sharleen 7 false
+i Inessa 4 false
+c Tracee true
+c Harli true
+c Abbye true
+c Sioux true
+i Brittan 2 false
+c Idalia true
+i Lyndsie 4 false
+c Claudette true
+i Pennie 7 false
+c Sioux true
+c Twyla true
+i Zena 1 false
+c Elizabet true
+i Pennie 1 false
+i Berte 9 false
+i Sioux 9 false
+c Elizabet true
+i Berte 2 false
+i Zena 9 false
+c Tonie true
+c Tera true
+i Germana 3 false
+i Tracee 3 false
+c Sharleen true
+i Zena 9 false
+c Claudette true
+i Michel 9 false
+i Berte 3 false
+i Faye 5 false
+c Augustina true
+i Tonie 7 false
+c Tera true
+i Harli 8 false
+c Goldy true
+c Twyla true
+c Tonie true
+i Marthena 7 false
+i Berte 5 false
+c Maureene true
+c Germana true
+i Elizabet 9 false
+c Abbye true
+i Michel 1 false
+c Florie true
+c Augustina true
+i Pennie 6 false
+i Kelli 2 false
+c Twyla true
+i Pennie 6 false
+c Tracee true
+i Pennie 7 false
+c Claudette true
+i Fleurette 8 false
+i Fleurette 9 false
+i Tonie 5 false
+i Faye 5 false
+c Inessa true
+c Sharleen true
+i Michel 5 false
+i Vinni 9 false
+c Faye true
+c Germana true
+i Fleurette 6 false
+i Sioux 8 false
+i Lyndsie 4 false
+c Goldy true
+i Marthena 3 false
+i Tera 2 false
+c Brittan true
+c Marthena true
+i Sharleen 10 false
+i Vinni 4 false
+c Claudette true
+i Idalia 5 false
+i Goldy 9 false
+c Jenni false
+i Faye 6 false
+i Fleurette 10 false
+i Berte 6 false
+i Tonie 2 false
+i Maureene 6 false
+c Elizabet true
+c Tracee true
+c Kelli true
+i Twyla 2 false
+i Sioux 8 false
+i Germana 4 false
+i Lyndsie 6 false
+i Pennie 5 false
+c Zena true
+c Idalia true
+i Zena 6 false
+c Michel true
+c Brittan true
+c Lynna true
+i Abbye 10 false
+i Goldy 1 false
+i Lynna 9 false
+i Twyla 6 false
+c Pennie true
+c Sharleen true
+i Sharleen 10 false
+c Tera true
+i Tera 3 false
+c Lynna true
+c Florie true
+i Tonie 2 false
+c Elizabet true
+c Fleurette true
+i Lynna 6 false
+i Harli 8 false
+i Lynna 10 false
+i Vinni 5 false
+i Abbye 6 false
+i Harli 2 false
+c Elizabet true
+i Pennie 4 false
+i Claudette 7 false
+c Abbye true
+c Germana true
+c Jenni false
+i Twyla 5 false
+i Vinni 5 false
+i Tracee 5 false
+i Marthena 3 false
+c Pennie true
+i Tonie 6 false
+c Pennie true
+i Tera 10 false
+c Tera true
+i Idalia 2 false
+c Berte true
+i Zena 3 false
+i Germana 1 false
+c Claudette true
+i Idalia 5 false
+i Germana 8 false
+c Florie true
+c Brittan true
+c Abbye true
+c Abbye true
+c Pennie true
+i Harli 3 false
+i Abbye 2 false
+i Zena 1 false
+i Abbye 6 false
+i Germana 3 false
+i Elizabet 7 false
+c Lynna true
+i Michel 4 false
+c Idalia true
+i Twyla 9 false
+i Goldy 10 false
+i Twyla 3 false
+i Twyla 1 false
+i Germana 8 false
+c Maureene true
+i Zena 3 false
+c Berte true
+i Sharleen 8 false
+c Idalia true
+c Abbye true
+i Harli 3 false
+c Augustina true
+c Tera true
+i Lyndsie 9 false
+c Abbye true
+i Marthena 1 false
+c Faye true
+c Sharleen true
+c Harli true
+i Jenni 10 true
+c Lyndsie true
+i Augustina 8 false
+c Berte true
+c Maureene true
+i Lynna 4 false
+i Florie 3 false
+i Maureene 3 false
+c Lynna true
+c Jenni true
+i Goldy 5 false
+c Maureene true
+i Claudette 6 false
+c Florie true
+c Germana true
+c Claudette true
+c Faye true
+c Abbye true
+c Kelli true
+i Maureene 5 false
+i Inessa 2 false
+i Inessa 3 false
+i Faye 7 false
+i Jenni 10 false
+i Tonie 4 false
+c Michel true
+i Berte 1 false
+c Augustina true
+c Tonie true
+i Pennie 5 false
+c Sharleen true
+c Berte true
+i Elizabet 9 false
+i Augustina 10 false
+c Jenni true
+c Tracee true
+i Lyndsie 8 false
+c Inessa true
+c Zena true
+c Sioux true
+c Sharleen true
+c Michel true
+c Michel true
+c Lynna true
+c Twyla true
+c Tracee true
+c Michel true
+i Marthena 9 false
+i Berte 10 false
+i Inessa 6 false
+i Claudette 4 false
+i Fleurette 7 false
+c Twyla true
+i Idalia 10 false
+i Lyndsie 6 false
+c Lynna true
+i Inessa 10 false
+c Maureene true
+c Elizabet true
+i Elizabet 8 false
+c Goldy true
+i Michel 1 false
+c Augustina true
+c Sharleen true
+i Jenni 2 false
+i Marthena 2 false
+i Abbye 6 false
+c Claudette true
+c Germana true
+i Elizabet 2 false
+c Lynna true
+c Idalia true
+i Claudette 9 false
+c Florie true
+c Jenni true
+i Lynna 2 false
+i Brittan 9 false
+i Idalia 10 false
+i Augustina 9 false
+c Sharleen true
+c Sioux true
+c Michel true
+i Lynna 2 false
+i Marthena 1 false
+i Idalia 7 false
+i Lynna 8 false
+i Lynna 2 false
+i Harli 7 false
+i Michel 9 false
+i Faye 7 false
+i Tonie 6 false
+c Brittan true
+i Kelli 9 false
+i Goldy 1 false
+i Elizabet 8 false
+c Marthena true
+i Lyndsie 1 false
+i Jenni 5 false
+i Tera 6 false
+c Inessa true
+c Vinni true
+i Marthena 2 false
+i Harli 1 false
+c Vinni true
+i Marthena 3 false
+c Florie true
+c Germana true
+i Harli 7 false
+c Idalia true
+c Tonie true
+c Harli true
+c Sioux true
+i Elizabet 4 false
+c Twyla true
+i Marthena 8 false
+i Faye 8 false
+i Maureene 2 false
+i Idalia 10 false
+i Sioux 8 false
+c Idalia true
+i Maureene 7 false
+c Lyndsie true
+c Idalia true
+c Vinni true
+c Germana true
+i Florie 9 false
+i Germana 9 false
+c Florie true
+c Germana true
+c Florie true
+c Pennie true
+c Augustina true
+i Jenni 10 false
+i Abbye 7 false
+c Claudette true
+c Tonie true
+i Sioux 8 false
+c Tracee true
+i Claudette 9 false
+i Elizabet 2 false
+i Marthena 9 false
+i Tera 9 false
+i Michel 9 false
+c Twyla true
+i Zena 7 false
+c Marthena true
+i Florie 3 false
+c Florie true
+i Brittan 8 false
+c Michel true
+c Harli true
+i Fleurette 5 false
+i Augustina 9 false
+i Idalia 7 false
+c Lyndsie true
+i Idalia 10 false
+c Tonie true
+i Faye 10 false
+c Abbye true
+c Lynna true
+i Pennie 10 false
+i Goldy 4 false
+i Idalia 4 false
+c Claudette true
+c Goldy true
+i Claudette 7 false
+c Berte true
+i Goldy 5 false
+c Tonie true
+i Faye 4 false
+i Goldy 5 false
+i Faye 6 false
+c Vinni true
+c Sharleen true
+c Faye true
+c Florie true
+i Abbye 3 false
+i Tonie 5 false
+c Elizabet true
+c Kelli true
+c Elizabet true
+c Idalia true
+i Zena 2 false
+i Lyndsie 7 false
+c Florie true
+c Lynna true
+i Tonie 2 false
+c Twyla true
+c Abbye true
+c Brittan true
+c Sharleen true
+c Tracee true
+c Florie true
+i Twyla 7 false
+c Jenni true
+c Harli true
+i Augustina 4 false
+i Inessa 6 false
+c Germana true
+i Pennie 9 false
+c Faye true
+c Florie true
+c Faye true
+i Lyndsie 4 false
+c Sioux true
+c Kelli true
+i Sioux 3 false
+c Zena true
+i Goldy 5 false
+c Goldy true
+c Twyla true
+i Brittan 2 false
+c Claudette true
+c Zena true
+c Pennie true
+i Tera 2 false
+i Abbye 10 false
+c Elizabet true
+c Marthena true
+i Florie 4 false
+i Abbye 2 false
+c Augustina true
+i Faye 5 false
+i Berte 1 false
+c Claudette true
+i Goldy 9 false
+i Claudette 2 false
+c Twyla true
+c Augustina true
+c Abbye true
+c Tracee true
+c Elizabet true
+c Sharleen true
+i Twyla 2 false
+c Marthena true
+c Brittan true
+i Faye 8 false
+i Marthena 4 false
+c Fleurette true
+i Harli 10 false
+c Tracee true
+c Inessa true
+i Zena 9 false
+c Tonie true
+c Tera true
+c Pennie true
+i Pennie 8 false
+i Tracee 8 false
+i Tonie 10 false
+i Tracee 8 false
+c Sharleen true
+c Sharleen true
+c Kelli true
+i Kelli 10 false
+c Claudette true
+c Sharleen true
+i Vinni 1 false
+c Tera true
+c Maureene true
+i Tera 4 false
+i Twyla 2 false
+c Idalia true
+c Vinni true
+c Twyla true
+c Florie true
+c Lynna true
+i Florie 2 false
+c Pennie true
+i Vinni 1 false
+i Zena 4 false
+c Tera true
+c Sharleen true
+c Berte true
+i Tera 1 false
+i Claudette 5 false
+c Elizabet true
+c Pennie true
+i Germana 8 false
+i Germana 2 false
+c Tonie true
+c Florie true
+i Fleurette 1 false
+i Marthena 3 false
+i Twyla 3 false
+c Twyla true
+c Elizabet true
+i Idalia 2 false
+c Tracee true
+c Idalia true
+c Tera true
+c Kelli true
+c Michel true
+c Claudette true
+i Sioux 5 false
+i Tera 9 false
+c Pennie true
+c Abbye true
+c Brittan true
+i Idalia 9 false
+c Germana true
+i Zena 6 false
+i Goldy 6 false
+c Inessa true
+c Idalia true
+i Goldy 6 false
+c Claudette true
+i Berte 6 false
+i Elizabet 4 false
+c Kelli true
+i Florie 8 false
+c Tonie true
+i Harli 5 false
+i Elizabet 8 false
+i Twyla 3 false
+i Harli 9 false
+i Pennie 8 false
+c Germana true
+i Kelli 4 false
+i Marthena 6 false
+i Kelli 7 false
+i Zena 1 false
+i Tracee 4 false
+c Twyla true
+i Claudette 2 false
+i Florie 2 false
+c Inessa true
+c Zena true
+c Augustina true
+i Brittan 6 false
+c Tracee true
+i Tonie 1 false
+c Michel true
+c Fleurette true
+i Michel 10 false
+i Jenni 7 false
+i Lyndsie 9 false
+i Jenni 6 false
+c Jenni true
+i Faye 10 false
+i Florie 9 false
+c Pennie true
+c Michel true
+i Faye 10 false
+i Harli 6 false
+c Sharleen true
+i Lynna 2 false
+i Berte 9 false
+i Twyla 8 false
+c Idalia true
+i Tonie 2 false
+i Pennie 8 false
+c Kelli true
+c Berte true
+c Sharleen true
+c Faye true
+c Inessa true
+i Pennie 9 false
+c Michel true
+c Brittan true
+i Germana 9 false
+i Elizabet 2 false
+i Idalia 4 false
+c Lyndsie true
+c Pennie true
+c Harli true
+c Kelli true
+i Goldy 6 false
+i Tracee 10 false
+i Fleurette 6 false
+i Pennie 5 false
+i Fleurette 9 false
+i Germana 9 false
+c Augustina true
+i Michel 7 false
+c Brittan true
+c Berte true
+i Twyla 8 false
+i Lyndsie 6 false
+c Lynna true
+c Elizabet true
+i Lynna 3 false
+i Pennie 7 false
+c Pennie true
+i Goldy 1 false
+c Florie true
+i Lynna 4 false
+c Jenni true
+c Marthena true
+c Sioux true
+i Sioux 4 false
+i Tonie 6 false
+c Tera true
+c Lyndsie true
+c Pennie true
+c Sharleen true
+i Brittan 3 false
+c Maureene true
+c Pennie true
+c Vinni true
+c Tracee true
+c Vinni true
+i Faye 9 false
+i Kelli 4 false
+c Florie true
+i Tonie 10 false
+c Tera true
+c Faye true
+c Inessa true
+i Pennie 6 false
+c Zena true
+c Augustina true
+c Germana true
+c Vinni true
+i Kelli 7 false
+c Lyndsie true
+c Sioux true
+i Germana 8 false
+c Marthena true
+i Augustina 8 false
+c Twyla true
+i Fleurette 6 false
+c Faye true
+i Jenni 3 false
+c Faye true
+i Brittan 1 false
+i Inessa 5 false
+c Lynna true
+c Maureene true
+i Lynna 2 false
+c Lynna true
+c Twyla true
+c Idalia true
+i Abbye 1 false
+c Michel true
+i Vinni 2 false
+c Tera true
+c Idalia true
+i Kelli 9 false
+i Berte 10 false
+i Jenni 10 false
+c Florie true
+c Twyla true
+i Idalia 3 false
+c Lyndsie true
+c Augustina true
+c Fleurette true
+i Twyla 6 false
+i Lynna 2 false
+c Abbye true
+i Tracee 6 false
+c Pennie true
+i Harli 5 false
+c Claudette true
+c Augustina true
+i Florie 10 false
+c Fleurette true
+c Faye true
+c Twyla true
+c Tera true
+c Florie true
+c Sharleen true
+i Michel 3 false
+c Vinni true
+i Harli 6 false
+c Michel true
+c Tracee true
+i Kelli 7 false
+i Kelli 3 false
+c Lynna true
+i Faye 5 false
+c Harli true
+i Marthena 10 false
+c Germana true
+c Claudette true
+c Germana true
+c Vinni true
+i Tonie 10 false
+c Tonie true
+i Vinni 5 false
+i Florie 4 false
+c Claudette true
+c Florie true
+c Faye true
+i Abbye 1 false
+i Abbye 7 false
+i Inessa 5 false
+i Germana 7 false
+c Twyla true
+c Michel true
+c Claudette true
+i Harli 10 false
+c Fleurette true
+c Tracee true
+i Inessa 2 false
+c Goldy true
+c Lyndsie true
+i Abbye 10 false
+c Sioux true
+c Lyndsie true
+i Germana 5 false
+i Twyla 8 false
+c Zena true
+i Harli 3 false
+i Twyla 2 false
+c Sioux true
+i Sharleen 2 false
+i Brittan 9 false
+i Goldy 2 false
+i Augustina 4 false
+i Harli 7 false
+i Augustina 1 false
+c Berte true
+i Sioux 4 false
+c Germana true
+c Zena true
+c Pennie true
+i Kelli 3 false
+i Vinni 4 false
+c Goldy true
+i Sioux 5 false
+i Marthena 1 false
+c Fleurette true
+c Germana true
+i Idalia 2 false
+c Tera true
+c Jenni true
+c Vinni true
+i Vinni 3 false
+c Twyla true
+i Claudette 6 false
+i Tonie 7 false
+i Fleurette 8 false
+i Twyla 4 false
+c Kelli true
+i Florie 7 false
+i Tonie 4 false
+i Kelli 4 false
+i Abbye 5 false
+c Michel true
+c Elizabet true
+i Lyndsie 2 false
+i Lynna 2 false
+i Sharleen 3 false
+i Tracee 8 false
+c Inessa true
+i Lynna 6 false
+c Goldy true
+i Fleurette 7 false
+i Marthena 5 false
+i Twyla 2 false
+i Faye 7 false
+c Tera true
+i Abbye 8 false
+c Florie true
+i Kelli 4 false
+c Goldy true
+i Vinni 7 false
+i Florie 3 false
+c Jenni true
+i Claudette 3 false
+c Michel true
+i Inessa 7 false
+c Sharleen true
+c Florie true
+i Elizabet 5 false
+i Germana 6 false
+c Germana true
+i Jenni 5 false
+c Idalia true
+c Kelli true
+i Faye 2 false
+i Vinni 1 false
+i Marthena 7 false
+i Jenni 9 false
+i Maureene 5 false
+i Tracee 6 false
+c Pennie true
+i Sharleen 1 false
+c Elizabet true
+i Lyndsie 4 false
+c Vinni true
+c Tracee true
+c Michel true
+c Augustina true
+c Berte true
+c Lyndsie true
+c Sharleen true
+c Pennie true
+c Berte true
+c Marthena true
+i Claudette 9 false
+i Sharleen 2 false
+c Sharleen true
+i Brittan 3 false
+i Idalia 8 false
+i Harli 9 false
+c Abbye true
+i Berte 5 false
+c Twyla true
+c Vinni true
+i Fleurette 7 false
+i Sioux 2 false
+c Tonie true
+c Jenni true
+c Augustina true
+c Sharleen true
+c Lynna true
+c Sharleen true
+c Tracee true
+i Pennie 8 false
+c Lynna true
+c Zena true
+c Vinni true
+i Lynna 9 false
+c Florie true
+i Tera 9 false
+i Inessa 1 false
+i Michel 7 false
+i Idalia 1 false
+i Augustina 4 false
+i Tonie 3 false
+c Goldy true
+c Zena true
+i Inessa 8 false
+c Inessa true
+c Sharleen true
+i Faye 7 false
+i Lynna 7 false
+i Berte 6 false
+c Sharleen true
+i Vinni 5 false
+i Florie 2 false
+i Fleurette 9 false
+c Marthena true
+i Pennie 2 false
+i Lynna 9 false
+c Fleurette true
+i Berte 9 false
+i Tera 6 false
+i Lyndsie 7 false
+c Elizabet true
+i Faye 9 false
+c Lyndsie true
+c Idalia true
+i Lynna 10 false
+i Berte 3 false
+i Fleurette 4 false
+c Kelli true
+i Vinni 2 false

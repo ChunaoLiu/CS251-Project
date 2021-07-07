@@ -1,0 +1,31 @@
+7
+g Inga null
+i Birdie 29 true
+g Birdie 29
+i Licha 21 true
+g Leann null
+i Binni 20 true
+g Birdie 29
+g Norry null
+g Patrizia null
+g Licha 21
+i Norry 22 true
+i Patrizia 18 true
+g Serena null
+g Inga null
+g Leann null
+g Giralda null
+i Patrizia 10 false
+g Binni 20
+g Licha 21
+g Patrizia 18
+i Sari 6 true
+g Patrizia 18
+i Birdie 14 false
+g Giralda null
+g Giralda null
+i Licha 3 false
+i Leann 30 true
+g Serena null
+g Licha 21
+i Binni 7 false

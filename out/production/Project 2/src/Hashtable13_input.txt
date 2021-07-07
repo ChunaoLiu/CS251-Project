@@ -1,0 +1,31 @@
+7
+i Karoline 5 true
+i Brenda 1 true
+i Lonee 18 true
+i Karoline 3 false
+i Brenda 17 false
+i Brenda 17 false
+i Beryle 15 true
+i Brenda 18 false
+i Leticia 12 true
+i Karoline 3 false
+r Karoline true
+i Lela 11 true
+r Karoline false
+i Beryle 1 false
+i Michelle 2 true
+i Michelle 10 false
+i Beryle 11 false
+i Elissa 8 true
+i Gustie 14 true
+r Karoline false
+i Lela 7 false
+r Elissa true
+i Brenda 4 false
+i Elissa 7 true
+r Michelle true
+r Brenda true
+r Lela true
+i Karoline 16 true
+i Michelle 6 true
+i Brenda 17 true

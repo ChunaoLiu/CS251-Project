@@ -1,0 +1,301 @@
+23
+g Anna-Diana null
+g Mariejeanne null
+i Dallas 23 true
+g TEirtza null
+g Victoria null
+g Daryn null
+i Sisely 16 true
+g Daryn null
+g Betteanne null
+g Jobina null
+g Maryellen null
+i Kari 8 true
+g Sisely 16
+g Kordula null
+g Xylia null
+g TEirtza null
+g Sisely 16
+i Jobina 28 true
+g Xylia null
+g Betteanne null
+i Jobina 12 false
+i Dallas 6 false
+i Betteanne 11 true
+i Dallas 9 false
+g Catarina null
+g Lonni null
+i Harmony 6 true
+g TEirtza null
+i Roxie 7 true
+i Kordula 12 true
+i Dallas 16 false
+g Catarina null
+g Brunhilde null
+g Xylia null
+g Harmony 6
+g TEirtza null
+g Betteanne 11
+i Victoria 18 true
+i Roxie 2 false
+g Kordula 12
+g Florella null
+g Mariejeanne null
+g Lonni null
+i Catarina 3 true
+g Krissie null
+g Victoria 18
+i Catarina 8 false
+g Brunhilde null
+i Jobina 6 false
+i Maryellen 18 true
+i Betteanne 25 false
+g Sisely 16
+g Victoria 18
+g Victoria 18
+i Harmony 2 false
+i Kari 2 false
+g Kordula 12
+g Jobina 28
+g Daryn null
+i Daryn 20 true
+g Krissie null
+i Brunhilde 24 true
+i Harmony 5 false
+g Roxie 7
+g Mariejeanne null
+g Brunhilde 24
+g Maryellen 18
+g Catarina 3
+g Krissie null
+g Sisely 16
+g Mariejeanne null
+i Catarina 5 false
+i Brunhilde 1 false
+i TEirtza 2 true
+i Betteanne 13 false
+g Xylia null
+g Anna-Diana null
+i Daryn 29 false
+g Jobina 28
+i Krissie 14 true
+g Mariejeanne null
+g Betteanne 11
+g Brunhilde 24
+g Kordula 12
+g Sisely 16
+g TEirtza 2
+g Catarina 3
+i Kordula 28 false
+i Daryn 24 false
+g TEirtza 2
+i Xylia 10 true
+i Victoria 21 false
+g Maryellen 18
+g Maryellen 18
+i Sisely 4 false
+g Dallas 23
+g Sisely 16
+g Maryellen 18
+g Krissie 14
+g Lonni null
+g Mariejeanne null
+g Betteanne 11
+g Mariejeanne null
+i Daryn 18 false
+g Krissie 14
+i Kari 2 false
+i Daryn 25 false
+i Betteanne 3 false
+g Catarina 3
+g Xylia 10
+g Harmony 6
+g Lonni null
+g Brunhilde 24
+g Krissie 14
+g Xylia 10
+g Harmony 6
+g Jobina 28
+g Kari 8
+g Roxie 7
+g Kordula 12
+g Krissie 14
+g Florella null
+g Dallas 23
+g Daryn 20
+g TEirtza 2
+i Anna-Diana 22 true
+g Maryellen 18
+g Anna-Diana 22
+g Sisely 16
+i Daryn 17 false
+i Roxie 27 false
+g Betteanne 11
+g Xylia 10
+i Maryellen 13 false
+g Anna-Diana 22
+g Catarina 3
+g Harmony 6
+g Krissie 14
+i Mariejeanne 16 true
+i TEirtza 23 false
+g Maryellen 18
+g Jobina 28
+i Roxie 14 false
+i Kari 14 false
+g Victoria 18
+g Mariejeanne 16
+g Florella null
+g Lonni null
+g Catarina 3
+g Kari 8
+i Jobina 16 false
+g TEirtza 2
+g Dallas 23
+i Mariejeanne 12 false
+g Sisely 16
+i Sisely 8 false
+g Catarina 3
+g Xylia 10
+g Harmony 6
+g Florella null
+g Anna-Diana 22
+i Lonni 6 true
+g Harmony 6
+g Catarina 3
+g Jobina 28
+i TEirtza 22 false
+g Sisely 16
+i Kordula 29 false
+g Krissie 14
+g Harmony 6
+i Mariejeanne 28 false
+g Lonni 6
+g Krissie 14
+i Xylia 30 false
+i Dallas 24 false
+i Harmony 28 false
+i Dallas 25 false
+i Victoria 1 false
+i Anna-Diana 19 false
+g Kari 8
+g Florella null
+g Daryn 20
+g Betteanne 11
+g Maryellen 18
+g Kari 8
+i Florella 10 true
+g Brunhilde 24
+g Roxie 7
+g Roxie 7
+i Daryn 2 false
+g Betteanne 11
+i Mariejeanne 9 false
+g Roxie 7
+g Betteanne 11
+g Catarina 3
+g Roxie 7
+i Dallas 3 false
+i TEirtza 27 false
+g Kari 8
+i Jobina 4 false
+g Xylia 10
+i Daryn 26 false
+g Lonni 6
+g Dallas 23
+g Kordula 12
+i Harmony 16 false
+g Roxie 7
+g Krissie 14
+g Catarina 3
+g Daryn 20
+g Kari 8
+g Florella 10
+g Sisely 16
+g Jobina 28
+g Anna-Diana 22
+g TEirtza 2
+g Xylia 10
+i Sisely 5 false
+i Anna-Diana 18 false
+g Lonni 6
+g Xylia 10
+g Kari 8
+i Kordula 27 false
+g Betteanne 11
+i TEirtza 28 false
+g Brunhilde 24
+g Sisely 16
+g Mariejeanne 16
+g Daryn 20
+i Roxie 5 false
+g Catarina 3
+g Harmony 6
+g Kari 8
+g Dallas 23
+g Kordula 12
+g Xylia 10
+i Xylia 8 false
+g Maryellen 18
+i Xylia 2 false
+g TEirtza 2
+g Roxie 7
+g Mariejeanne 16
+g Daryn 20
+g Victoria 18
+g Florella 10
+i Lonni 30 false
+g Jobina 28
+g Kari 8
+g Maryellen 18
+g Krissie 14
+g Victoria 18
+i Harmony 28 false
+g Xylia 10
+g Kari 8
+g Roxie 7
+g Daryn 20
+g Catarina 3
+g Betteanne 11
+g Catarina 3
+g Catarina 3
+i Kordula 11 false
+g Betteanne 11
+g Jobina 28
+i Anna-Diana 5 false
+i Brunhilde 7 false
+g Roxie 7
+g Kordula 12
+i Krissie 19 false
+g Xylia 10
+i Lonni 15 false
+i Kari 5 false
+g Jobina 28
+g Jobina 28
+i Dallas 30 false
+g Daryn 20
+g Daryn 20
+i Anna-Diana 19 false
+i Dallas 16 false
+g Catarina 3
+g Catarina 3
+g Daryn 20
+i Victoria 21 false
+i Roxie 11 false
+g Maryellen 18
+i Dallas 19 false
+g Mariejeanne 16
+i Kordula 15 false
+i Roxie 12 false
+g Victoria 18
+g Kari 8
+g Maryellen 18
+g Victoria 18
+i Victoria 4 false
+g Harmony 6
+i Catarina 24 false
+i Xylia 25 false
+i Lonni 17 false
+i Betteanne 20 false
+g Betteanne 11
+g Jobina 28

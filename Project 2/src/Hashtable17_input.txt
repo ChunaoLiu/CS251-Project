@@ -1,0 +1,1001 @@
+47
+i Selinda 8 true
+i Adelle 18 true
+c Elizabet false
+g Marie-Jeanne null
+i Nissie 5 true
+c Vivie false
+i Camellia 13 true
+c Ginni false
+g Roze null
+c Antonie false
+r Monica false
+i Peri 10 true
+g Thomasina null
+g Roze null
+g Phillida null
+r Haley false
+i Peri 8 false
+r Corly false
+i Alysa 5 true
+g Libbie null
+i Constancy 19 true
+r Anabella false
+s 7
+c Peri true
+g Maisie null
+r Antonie false
+c Bernadene false
+s 7
+s 7
+s 7
+c Conny false
+r Haley false
+g Concettina null
+g Bridie null
+c Libbie false
+r Thomasina false
+i Anthe 16 true
+r Manon false
+c Millie false
+g Ginni null
+c Bel false
+i Elora 19 true
+s 9
+r Linea false
+i Ninette 3 true
+r Marcelia false
+i Rasia 3 true
+c Kitty false
+i Gilberta 2 true
+i Perl 1 true
+g Roz null
+i Alethea 5 true
+c Vivie false
+r Mercy false
+g Marcelia null
+s 14
+i Gilberta 12 false
+i Selinda 2 false
+s 14
+g Rhiamon null
+c Erna false
+g Janine null
+g Merrily null
+g Ronda null
+i Constancy 20 false
+i Alysa 13 false
+c Alica false
+i Meara 10 true
+s 15
+i Kyrstin 10 true
+c Bernadene false
+r Meggie false
+i Calli 18 true
+s 17
+s 17
+g Thomasina null
+i Jeni 6 true
+r Faina false
+g Alysa 5
+r Roz false
+i Ginni 16 true
+c Meggie false
+r Matilda false
+c Vivie false
+s 19
+r Delphine false
+r Lishe false
+i Barb 12 true
+i Bel 16 true
+c Emmy false
+g Alica null
+c Justine false
+r Evelyn false
+s 21
+c Nissie true
+i Monica 5 true
+i Alaine 17 true
+i Matilda 19 true
+c Justine false
+c Elizabet false
+s 24
+c Libbie false
+c Marsiella false
+r Peri true
+r Janean false
+c Bel true
+g Dacy null
+i Jacquelynn 10 true
+i Matilda 1 false
+i Ninette 7 false
+c Juieta false
+i Roz 10 true
+s 25
+g Alica null
+i Libbie 20 true
+s 26
+r Calli true
+g Melinde null
+s 25
+i Perl 9 false
+i Adelle 3 false
+r Barb true
+c Doralynn false
+c Millie false
+s 24
+r Cilka false
+i Jacquelynn 7 false
+g Susy null
+i Priscella 4 true
+g Cilka null
+i Meara 13 false
+c Constancy true
+i Mercy 16 true
+i Faina 3 true
+i Alaine 13 false
+g Concettina null
+g Rhiamon null
+s 27
+g Nissie 5
+c Alaine true
+g Jonis null
+s 27
+r Alaine true
+c Merrily false
+s 26
+s 26
+s 26
+i Meta 14 true
+i Faina 6 false
+g Erna null
+g Millie null
+c Delphine false
+r Emmy false
+c Matilda true
+i Calli 11 true
+i Desiree 17 true
+r Anabella false
+s 29
+i Thomasina 2 true
+i Camala 16 true
+i Dacy 16 true
+i Adelle 19 false
+s 32
+g Elora 19
+r Kaitlyn false
+s 32
+g Barb null
+g Bridie null
+s 32
+i Roz 7 false
+s 32
+c Evelyn false
+r Calypso false
+g Selinda 8
+i Elizabet 20 true
+s 33
+g Ninette 3
+i Effie 11 true
+c Mercy true
+g Loralee null
+c Rasia true
+s 34
+r Thomasina true
+i Nicola 2 true
+i Kathie 15 true
+i Effie 13 false
+i Doralynn 19 true
+r Delphine false
+i Bel 13 false
+r Emmy false
+s 36
+i Cilka 5 true
+i Delphine 1 true
+s 38
+g Kitty null
+r Kitty false
+s 38
+s 38
+r Anabella false
+i Alaine 10 true
+i Alethea 16 false
+c Camala true
+c Gilberta true
+c Thomasina false
+r Roz true
+i Agata 12 true
+i Libbie 14 false
+i Gwenni 12 true
+g Meta 14
+i Jacquelynn 8 false
+s 40
+s 40
+i Elora 13 false
+c Peri false
+i Elora 4 false
+r Shayla false
+i Bernadene 20 true
+c Selinda true
+c Amata false
+s 41
+i Dacy 19 false
+i Kathie 19 false
+g Maisie null
+i Shayla 15 true
+g Manon null
+s 42
+i Ninette 1 false
+c Natala false
+c Ronni false
+r Erna false
+g Calypso null
+i Ronni 20 true
+s 43
+r Delphine true
+i Camala 14 false
+i Loralee 1 true
+s 43
+i Shayla 10 false
+r Jacquelynn true
+r Phillida false
+c June false
+i Phillida 12 true
+i Ninette 17 false
+c Janine false
+s 43
+s 43
+c Juieta false
+c Gilberta true
+s 43
+g Jonis null
+c Meara true
+c Haley false
+c Bessy false
+r Meta true
+s 42
+i Kyrstin 10 false
+g Elora 19
+s 42
+i Jeni 8 false
+c Vivie false
+s 42
+r Gwenni true
+g Madelyn null
+i Effie 3 false
+i Bernadene 9 false
+s 41
+r Charmion false
+c Anabella false
+i Ninette 17 false
+i Marcelia 1 true
+i Lilias 14 true
+i Lishe 18 true
+i Corly 19 true
+s 45
+s 45
+s 45
+g Maisie null
+c Meggie false
+i Roz 14 true
+i Erna 7 true
+c Hermione false
+i Matilda 16 false
+r Charmion false
+i Kathie 2 false
+r Bernadene true
+i Susy 9 true
+r Loralee true
+r Jacquelynn false
+r Kyrstin true
+i Jonis 5 true
+c Elizabet true
+s 46
+r Vivie false
+s 46
+c Hermione false
+g Calypso null
+c Alaine true
+g Delphine null
+r Antonie false
+s 46
+i Effie 1 false
+i Antonie 14 true
+i Desiree 11 false
+s 47
+g Elinore null
+r Doralynn true
+r Anthe true
+i Janine 17 true
+i Dacy 2 false
+c Elinore false
+c Desiree true
+i Effie 18 false
+i Alica 5 true
+c Priscella true
+g Loralee null
+i Melinde 11 true
+i Bessy 18 true
+c Ronni true
+s 49
+s 49
+r Ronda false
+i Camala 12 false
+i Benedicta 16 true
+g Kathie 15
+r Benedicta true
+g Libbie 20
+s 49
+s 49
+g Anabella null
+r Concettina false
+g Madelyn null
+s 49
+i Phillida 10 false
+c Shayla true
+i Haley 7 true
+s 50
+g Rhiamon null
+g Constancy 19
+i Priscella 20 false
+r Ginni true
+i Dorian 3 true
+r Kaitlyn false
+s 50
+s 50
+i Manon 3 true
+i Delphine 15 true
+i Vivie 2 true
+i Alysa 8 false
+r Manon true
+g Benedicta null
+i Constancy 1 false
+c Lilias true
+g Elizabet 20
+c Manon false
+g Alethea 5
+s 52
+i Nancee 12 true
+c Camala true
+r Peri false
+c Katuscha false
+r Susy true
+r Anabella false
+i Elizabet 19 false
+i Camellia 8 false
+g Bel 16
+r Adelle true
+i Calypso 1 true
+g Barb null
+g Conny null
+r Bessy true
+i Bernadene 1 true
+i Meara 11 false
+r Ronda false
+r Selinda true
+r Juieta false
+i Susy 14 true
+g Camellia 13
+s 52
+c Elinore false
+i Shayla 14 false
+s 52
+r Charmion false
+i Marie-Jeanne 19 true
+i Meggie 10 true
+c Bernadene true
+c Susy true
+c Susy true
+g Roz 14
+r Mercy true
+s 53
+c Roz true
+c Amata false
+i Faina 3 false
+g Elizabet 20
+i Lilias 18 false
+g Kyrstin null
+i Rhiamon 13 true
+c Meta false
+c Lilias true
+i Katuscha 16 true
+g Charmion null
+i Mercy 17 true
+i Bessy 3 true
+i Marie-Jeanne 7 false
+g Marcelia 1
+g Emmy null
+c Camala true
+i Anthe 9 true
+r Kathie true
+r Justine false
+s 57
+c Nancee true
+i Madelyn 17 true
+i Kyrstin 9 true
+g Nissie 5
+c Elizabet true
+i Linea 4 true
+i Calypso 8 false
+s 60
+s 60
+g Evelyn null
+c Maisie false
+i Dora 20 true
+r Evelyn false
+c Dorian true
+r Cilka true
+c Charmion false
+s 60
+g Linea 4
+i Calli 4 false
+r Alaine true
+g Anabella null
+i Marsiella 4 true
+i Merrily 17 true
+i Agata 8 false
+s 61
+r Marie-Jeanne true
+r Madelyn true
+r Roz true
+c Delphine true
+s 58
+c Alethea true
+i Meara 5 false
+i Kitty 16 true
+c Kathie false
+s 59
+r Benedicta false
+i Dora 10 false
+i Katuscha 10 false
+g Maisie null
+s 59
+s 59
+c Tamra false
+s 59
+i Marsiella 18 false
+g Natala null
+g Dorian 3
+s 59
+i Faina 4 false
+i Natala 8 true
+i Benedicta 3 true
+c Dacy true
+s 61
+r Constancy true
+c Gilberta true
+g Calli 11
+i Effie 14 false
+i Rasia 6 false
+s 60
+g Thomasina null
+s 60
+g Janine 17
+i Elora 7 false
+c Jacquelynn false
+r Roze false
+s 60
+r Meggie true
+i Jacquelynn 4 true
+i Selinda 19 true
+r Anthe true
+g Natala 8
+r Doralynn false
+c Meggie false
+i Bel 17 false
+s 60
+c Ninette true
+g Roze null
+i Elinore 4 true
+i Meggie 8 true
+g Kyrstin 9
+g Camellia 13
+c Juieta false
+i Elora 14 false
+g Marie-Jeanne null
+i Rasia 6 false
+r Jacquelynn true
+i Ginni 17 true
+g Barb null
+s 62
+i Hermione 14 true
+g Peri null
+r Lilias true
+s 62
+i Agata 15 false
+c Madelyn false
+r Thomasina false
+i Manon 11 true
+g Matilda 19
+r Katuscha true
+c Ronda false
+g Alethea 5
+r Ginni true
+s 61
+i Perl 7 false
+s 61
+r Monica true
+g Bernadene 1
+c Alica true
+c Constancy false
+c Concettina false
+r Bessy true
+i Tamra 12 true
+c Constancy false
+s 60
+g Meggie 8
+g Roze null
+r Kyrstin true
+r Elora true
+i Glennis 3 true
+s 59
+c Elinore true
+g Gwenni null
+g Antonie 14
+s 59
+r Effie true
+s 58
+r Rasia true
+i Haley 2 false
+r Camellia true
+i Maisie 13 true
+c Benedicta true
+g Nancee 12
+c Jonis true
+r Matilda true
+i Calli 12 false
+s 56
+i Meta 19 true
+i Benedicta 1 false
+r Merrily true
+r Effie false
+g Barb null
+c Agata true
+c Libbie true
+r Alysa true
+c Matilda false
+s 55
+c Janean false
+c Delphine true
+i Mercy 5 false
+i Perl 2 false
+s 55
+c Lishe true
+i Cilka 17 true
+i Barb 20 true
+s 57
+c Hermione true
+r Marsiella true
+r Erna true
+i Cilka 16 false
+r Jeni true
+c Gilberta true
+i Elizabet 10 false
+i Gilberta 5 false
+c Anabella false
+c Anthe false
+i Melinde 3 false
+c Nicola true
+s 54
+i Libbie 4 false
+i Camellia 9 true
+i Delphine 19 false
+s 55
+s 55
+s 55
+c Peri false
+i Ronni 8 false
+g Bessy null
+i Meara 16 false
+s 55
+g Rhiamon 13
+i Janine 16 false
+i Melinde 14 false
+i Matilda 12 true
+i Corly 13 false
+g Gilberta 2
+c Selinda true
+i Alica 3 false
+i Nancee 13 false
+g Alethea 5
+r Loralee false
+g Jonis 5
+i Rhiamon 10 false
+s 56
+g Alethea 5
+s 56
+g Mercy 17
+g Roz null
+c Katuscha false
+r Susy true
+r Marie-Jeanne false
+g Kitty 16
+r Haley true
+i Erna 2 true
+c Priscella true
+g Doralynn null
+s 55
+s 55
+c Natala true
+c Meta true
+g Cilka 17
+g Amata null
+s 55
+s 55
+g Rhiamon 13
+r Merrily false
+i Kitty 5 false
+r Tamra true
+i Roz 18 true
+i Adelle 8 true
+g Merrily null
+r Barb true
+i Merrily 16 true
+r Justine false
+s 56
+c Ronda false
+i Barb 18 true
+s 57
+c Amata false
+r Millie false
+r Manon true
+c June false
+g Madelyn null
+c Amata false
+c Calypso true
+s 56
+i Bel 18 false
+r Nissie true
+s 55
+s 55
+g Susy null
+i Ronni 15 false
+g Effie null
+r Nancee true
+r Dorian true
+g Elinore 4
+i Natala 20 false
+g Perl 1
+s 53
+s 53
+i Meara 18 false
+g Effie null
+r Elora false
+i Thomasina 16 true
+g Nissie null
+i Ronda 11 true
+c Anabella false
+i Kitty 15 false
+g Kitty 16
+i Alaine 8 true
+c Delphine true
+g Nancee null
+c Bridie false
+g Kitty 16
+i Charmion 15 true
+i Emmy 13 true
+i Elizabet 16 false
+i Libbie 1 false
+r Bel true
+c Marie-Jeanne false
+i Meara 1 false
+g Ronda 11
+s 57
+r Katuscha false
+g Effie null
+i Manon 14 true
+g Priscella 4
+g Gwenni null
+i Marie-Jeanne 7 true
+i Elizabet 10 false
+g Dorian null
+c Gilberta true
+i Erna 12 false
+s 59
+c Camala true
+i Marcelia 6 false
+r Evelyn false
+c Shayla true
+s 59
+s 59
+i Marsiella 17 true
+r Camellia true
+i Marcelia 20 false
+r Priscella true
+i Phillida 5 false
+i June 17 true
+s 59
+g Agata 12
+i Ginni 5 true
+c Charmion true
+r Peri false
+c Peri false
+c Justine false
+g Janean null
+g Charmion 15
+s 60
+r Kaitlyn false
+c Alysa false
+r Katuscha false
+i Kyrstin 1 true
+i Charmion 9 false
+c Amata false
+c June true
+s 61
+s 61
+r Haley false
+r Bernadene true
+c Phillida true
+g Barb 18
+r Evelyn false
+c Adelle true
+i Shayla 13 false
+s 60
+c Susy false
+s 60
+r Ginni true
+r Ronni true
+g Kathie null
+r Agata true
+s 57
+g Perl 1
+i Calypso 11 false
+s 57
+i Dacy 15 false
+i Emmy 5 false
+i June 2 false
+g Alethea 5
+c Roz true
+g Effie null
+s 57
+c Meara true
+g Delphine 15
+c Gwenni false
+s 57
+r Concettina false
+g Justine null
+r Kaitlyn false
+r Alethea true
+r Camellia false
+i Monica 11 true
+s 57
+g Charmion 15
+c Glennis true
+i Kathie 9 true
+r Alica true
+c Corly true
+i Ronda 11 false
+c Camala true
+s 57
+r Haley false
+r Charmion true
+g Lishe 18
+c Tamra false
+i Concettina 17 true
+s 57
+r Loralee false
+s 57
+c Millie false
+g Roze null
+i Ginni 7 true
+c Manon true
+i Melinde 13 false
+g Selinda 19
+r Marcelia true
+s 57
+i Nicola 17 false
+r Roze false
+c Matilda true
+g Effie null
+r Nicola true
+r Lishe true
+i Dorian 5 true
+i Phillida 8 false
+i Glennis 19 false
+c Madelyn false
+i Amata 3 true
+i Desiree 10 false
+i Selinda 5 false
+i Janean 2 true
+i Gilberta 9 false
+i Kaitlyn 13 true
+i Perl 15 false
+s 59
+i Kaitlyn 17 false
+i Katuscha 13 true
+c Calli true
+i Dora 2 false
+s 60
+i Erna 20 false
+s 60
+g Janean 2
+i Ronda 19 false
+i Amata 19 false
+i Nancee 12 true
+i Ronni 17 true
+i Marcelia 17 true
+c Elinore true
+c Gwenni false
+i Alysa 2 true
+r Melinde true
+g Ronni 17
+c Emmy true
+r Marsiella true
+s 62
+i Erna 13 false
+r Bessy false
+s 62
+r Selinda true
+r Katuscha true
+s 60
+r Alysa true
+s 59
+r Adelle true
+r Rasia false
+r Emmy true
+c Ronni true
+r Kyrstin true
+i Concettina 7 false
+c Concettina true
+c Peri false
+c Benedicta true
+c Marcelia true
+i Linea 4 false
+i Jeni 11 true
+c Meta true
+s 57
+s 57
+g Bernadene null
+i Madelyn 8 true
+c Maisie true
+r Elora false
+i Alaine 13 false
+r Adelle false
+i Manon 5 false
+c Antonie true
+c Marcelia true
+c Janean true
+i Barb 1 false
+i Meggie 3 false
+r Lilias false
+s 58
+c Nissie false
+s 58
+i Melinde 9 true
+c Nicola false
+c Nancee true
+c Phillida true
+i Monica 15 false
+i Tamra 17 true
+g Faina 3
+i Alethea 11 true
+i Millie 1 true
+g Marcelia 17
+r Kyrstin false
+c Maisie true
+i Glennis 1 false
+c Cilka true
+i Thomasina 13 false
+r Linea true
+g Monica 11
+s 61
+c Phillida true
+s 61
+i Thomasina 4 false
+c Marsiella false
+s 61
+r Camala true
+i Cilka 9 false
+r Dacy true
+i Shayla 8 false
+i Dora 20 false
+i Corly 16 false
+i Adelle 12 true
+s 60
+g Camellia null
+c Dacy false
+g Alica null
+i Kitty 18 false
+i Glennis 16 false
+i Ginni 12 false
+g Linea null
+i Calli 3 false
+r Dorian true
+c Emmy false
+r Selinda false
+r Evelyn false
+s 59
+i Kitty 6 false
+i Thomasina 8 false
+s 59
+c Meggie true
+i Ronda 11 false
+s 59
+r Hermione true
+c Susy false
+s 58
+s 58
+g Bel null
+i Marcelia 16 false
+r Jonis true
+s 57
+c Dora true
+i Elinore 20 false
+r Linea false
+r Alica false
+c Roze false
+i Antonie 12 false
+g Ninette 3
+s 57
+g Conny null
+r Shayla true
+s 56
+g Ginni 7
+i Maisie 20 false
+g Faina 3
+c Alaine true
+g Jonis null
+i Delphine 13 false
+r Constancy false
+r Manon true
+s 55
+i Alysa 1 true
+i Rasia 17 true
+r Elinore true
+c Desiree true
+i Desiree 7 false
+s 56
+i Rasia 12 false
+s 56
+i Cilka 1 false
+g Justine null
+i Melinde 7 false
+i June 12 false
+i Roz 15 false
+i Barb 18 false
+c Melinde true
+i Cilka 3 false
+i Concettina 4 false
+r Adelle true
+s 55
+r Thomasina true
+i Linea 19 true
+r Meara true
+s 54
+c Gwenni false
+i Kaitlyn 10 false
+i Bridie 8 true
+g Perl 1
+r Jacquelynn false
+r Bel false
+r Vivie true
+i Ronni 17 false
+i Meggie 15 false
+i Bernadene 14 true
+r Cilka true
+r Justine false
+g Susy null
+g Ronni 17
+s 54
+i Conny 17 true
+r Faina true
+i Amata 11 false
+c Selinda false
+s 54
+i Elora 13 true
+i Rhiamon 16 false
+g Bernadene 14
+r Calli true
+i Madelyn 13 false
+s 54
+r Nicola false
+s 54
+c Kyrstin false
+g Alysa 1
+i Meara 2 true
+r Conny true
+s 54
+r June true
+s 53
+i Elinore 9 true
+i Dacy 17 true

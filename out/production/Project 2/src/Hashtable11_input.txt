@@ -1,0 +1,301 @@
+23
+i Cecile 16 true
+i Raye 28 true
+i Kaja 1 true
+i Liza 23 true
+i Winny 1 true
+i Gavra 30 true
+s 6
+i Winny 22 false
+i Flor 27 true
+i Erda 6 true
+i Kaja 6 false
+i Florenza 10 true
+i Raye 15 false
+i Jewel 1 true
+i Arliene 8 true
+i Betty 26 true
+i Cecile 23 false
+i Yovonnda 11 true
+i Monika 8 true
+s 14
+i Florenza 6 false
+i Megen 7 true
+i Darbie 9 true
+i Cindi 25 true
+i Kandy 19 true
+i Arliene 30 false
+i Darbie 8 false
+i Kara-Lynn 21 true
+i Nolie 26 true
+s 20
+s 20
+i Ryann 13 true
+i Jewel 27 false
+i Kaja 18 false
+i Querida 7 true
+i Kaja 15 false
+i Lurline 9 true
+s 23
+i Raye 4 false
+i Querida 7 false
+i Lurline 21 false
+i Joann 8 true
+i Dorotea 2 true
+s 25
+i Odetta 8 true
+i Ettie 3 true
+s 27
+i Betty 5 false
+i Caroline 3 true
+i Brittney 21 true
+i Marin 20 true
+s 30
+i Gavra 24 false
+i Caroline 24 false
+i Ryann 20 false
+i Pia 14 true
+i Linea 3 true
+i Rheba 26 true
+i Megen 3 false
+i Cristabel 4 true
+i Nan 19 true
+i Berty 23 true
+i Kara-Lynn 29 false
+i Gerti 11 true
+s 37
+s 37
+i Jewel 27 false
+i Constancy 7 true
+s 38
+i Kaja 8 false
+i Yovonnda 26 false
+i Rheba 3 false
+i Jewel 25 false
+i Marrilee 3 true
+i Shayna 5 true
+i Ettie 5 false
+s 40
+i Marjy 23 true
+i Cecile 12 false
+i Lurline 3 false
+i Eleonore 3 true
+i Alexandra 24 true
+i Flor 7 false
+s 43
+i Blinnie 28 true
+s 44
+i Monika 15 false
+i Constancy 24 false
+s 44
+i Yovonnda 21 false
+s 44
+i Eleonore 3 false
+i Susi 1 true
+i Mufi 9 true
+i Arliene 23 false
+i Venus 13 true
+i Gavra 11 false
+s 47
+s 47
+i Darbie 16 false
+i Kandy 5 false
+i Kara-Lynn 20 false
+i Karilynn 1 true
+s 48
+i Yovonnda 22 false
+i Melodie 10 true
+s 49
+i Jenica 27 true
+s 50
+i Vida 26 true
+i Carree 2 true
+i Dasie 23 true
+i Dorotea 4 false
+i Brit 14 true
+i Ettie 25 false
+i Winne 3 true
+i Brittney 2 false
+i Monika 18 false
+s 55
+i Liza 10 false
+i Constantina 7 true
+i Gabriell 17 true
+i Denny 18 true
+i Lorilyn 20 true
+i Flor 20 false
+i Megen 13 false
+i Carree 24 false
+i Lurline 26 false
+s 59
+s 59
+i Joann 15 false
+s 59
+i Raye 15 false
+i Kittie 24 true
+i Kaja 29 false
+s 60
+i Jenica 29 false
+i Lurline 29 false
+i Constancy 28 false
+i Cindi 7 false
+s 60
+i Shayna 6 false
+i Cristabel 12 false
+s 60
+i Susi 21 false
+i Pia 6 false
+i Monika 18 false
+i Anya 25 true
+i Querida 13 false
+i Gavra 29 false
+i Angy 19 true
+i Querida 7 false
+i Nan 13 false
+i Alexandra 16 false
+i Rheba 24 false
+i Dorotea 24 false
+i Raye 25 false
+s 62
+i Alexandra 1 false
+s 62
+i Pia 11 false
+i Raye 22 false
+i Denny 23 false
+i Christyna 3 true
+i Alexandra 30 false
+i Joann 10 false
+i Carree 19 false
+i Gabriell 9 false
+i Grazia 8 true
+i Raye 29 false
+s 64
+s 64
+i Eleonore 6 false
+i Carree 3 false
+i Brittney 12 false
+i Consolata 3 true
+i Eleonore 9 false
+i Flor 9 false
+i Karilynn 15 false
+s 65
+i Dominga 16 true
+i Grazia 17 false
+i Arliene 30 false
+i Lurline 6 false
+i Joann 15 false
+s 66
+i Yovonnda 14 false
+s 66
+i Vida 22 false
+i Lacie 5 true
+i Lacie 20 false
+i Denny 5 false
+i Darbie 20 false
+i Marjy 14 false
+i Dorotea 7 false
+i Denny 3 false
+i Lorilyn 27 false
+i Pia 22 false
+s 67
+s 67
+i Odetta 28 false
+i Cecile 7 false
+i Venus 24 false
+s 67
+i Gavra 9 false
+i Cristabel 20 false
+i Cindi 11 false
+s 67
+i Constancy 3 false
+i Florenza 14 false
+i Kandy 1 false
+i Denny 6 false
+i Eleonore 29 false
+i Marin 20 false
+i Mufi 18 false
+i Jenica 8 false
+i Shayna 30 false
+i Rheba 13 false
+i Megen 2 false
+i Nolie 28 false
+i Winny 21 false
+i Linea 18 false
+i Constantina 28 false
+s 67
+i Daisy 26 true
+i Mufi 21 false
+i Querida 16 false
+i Winne 23 false
+i Linea 13 false
+i Constancy 16 false
+i Constancy 21 false
+i Tatiania 14 true
+i Dasie 30 false
+i Marin 3 false
+i Anya 6 false
+i Kandy 30 false
+i Caroline 4 false
+s 69
+i Constantina 27 false
+i Reba 20 true
+i Eleonore 28 false
+i Kaja 9 false
+i Mufi 30 false
+i Erda 20 false
+i Joann 12 false
+i Joann 28 false
+i Dorotea 14 false
+i Liva 24 true
+i Kittie 17 false
+i Susi 9 false
+s 71
+i Brittney 7 false
+i Melodie 1 false
+i Darbie 30 false
+i Shayna 26 false
+i Winny 24 false
+i Liva 23 false
+i Dasie 18 false
+s 71
+i Darbie 5 false
+i Melodie 19 false
+i Pia 14 false
+i Cindi 21 false
+s 71
+i Gabriell 23 false
+s 71
+i Liza 20 false
+i Vida 23 false
+i Lurline 21 false
+i Blinnie 14 false
+i Liva 2 false
+s 71
+i Brit 7 false
+i Lurline 6 false
+i Gerti 19 false
+s 71
+s 71
+s 71
+s 71
+i Monika 21 false
+s 71
+i Dominga 9 false
+i Pia 28 false
+s 71
+i Brit 15 false
+i Jodie 26 true
+s 72
+i Yettie 14 true
+i Natalie 17 true
+s 74
+i Eleonore 21 false
+i Carree 22 false
+i Kaja 4 false
+i Odetta 6 false
+i Anya 18 false
+i Winny 8 false
+i Cecile 22 false
+i Cindi 16 false
+i Dominga 13 false
+i Shayna 17 false

@@ -1,0 +1,31 @@
+7
+i Mellie 4 true
+i Neda 16 true
+i Shellie 7 true
+i Jobyna 1 true
+i Katherina 7 true
+i Gabey 9 true
+i Jobyna 5 false
+i Katherina 6 false
+i Ophelie 7 true
+i Neda 6 false
+i Bianka 8 true
+i Fernande 15 true
+s 9
+i Mellie 12 false
+s 9
+i Katie 5 true
+i Siusan 7 true
+i Gaynor 20 true
+i Kynthia 20 true
+i Kaycee 20 true
+i Alla 15 true
+s 15
+s 15
+i Eden 13 true
+s 16
+s 16
+s 16
+i Brook 3 true
+s 17
+s 17

@@ -1,0 +1,501 @@
+23
+i Gilly 15 true
+i Jeanne 7 true
+r Irma false
+i Kellie 4 true
+r Wilow false
+i Dominica 17 true
+r Liesa false
+i Josey 11 true
+i Brandy 20 true
+i Suzanna 13 true
+i Brinn 19 true
+i Lorilyn 18 true
+r Luce false
+r Denys false
+r Michaela false
+i Meryl 3 true
+i Prudi 11 true
+i Elena 2 true
+i Ansley 2 true
+i Perle 11 true
+r Cal false
+i Trista 9 true
+r Rozelle false
+i Corina 12 true
+r Meryl true
+r Valaree false
+r Jenna false
+i Monica 3 true
+i Eveleen 19 true
+i Concordia 12 true
+r Lorilyn true
+i Codi 4 true
+i Nananne 8 true
+r Druci false
+i Jobie 20 true
+r Liesa false
+i Shea 17 true
+r Jonis false
+r Ida false
+r Mildrid false
+i Neysa 1 true
+r Austine false
+r Lucienne false
+i Nananne 11 false
+r Mae false
+r Francene false
+i Winifred 7 true
+r Shannon false
+i Shanie 18 true
+r Dominique false
+i Kathi 14 true
+i Dacie 10 true
+r Raychel false
+i Sal 7 true
+r Brandy true
+i Maribelle 19 true
+r Joey false
+r Perle true
+i Lynnelle 8 true
+r Veradis false
+i Leonie 6 true
+r Seana false
+i Layney 1 true
+i Delphinia 15 true
+r Loralee false
+i Johannah 14 true
+i Sadye 6 true
+i Vittoria 20 true
+i Rebe 3 true
+i Stephi 3 true
+i Lorrin 14 true
+i Phyllys 19 true
+r Jenilee false
+i Jennifer 17 true
+r Liesa false
+i Sula 6 true
+r Carena false
+r Nikki false
+i Carlie 15 true
+r Frederica false
+r Jilli false
+r Sheela false
+r Kathi true
+i Stephine 5 true
+i Johannah 4 false
+r Bethena false
+i Alexina 20 true
+i Erinna 11 true
+i Hollyanne 6 true
+i Lorrin 18 false
+r Ida false
+i Bendite 11 true
+r Enrichetta false
+r Elfie false
+i Kalindi 19 true
+i Jandy 19 true
+i Ebonee 3 true
+r Silvana false
+r Barbe false
+i Jerrine 12 true
+i Marjorie 16 true
+r Melesa false
+i Bendite 1 false
+i Truda 1 true
+i Pavla 20 true
+r Lonna false
+i Jolene 1 true
+i Amie 2 true
+i Tatiana 13 true
+i Eula 1 true
+i Brandy 6 true
+i Shannon 11 true
+i Dyna 6 true
+i Pam 19 true
+r Caria false
+i Lucita 16 true
+i Lynnelle 18 false
+i Janella 7 true
+r Merl false
+r Camellia false
+i Emeline 20 true
+i Dixie 7 true
+i Sibeal 6 true
+i Leonie 17 false
+r Trista true
+i Leanna 15 true
+i Manda 11 true
+r Netty false
+i Joey 8 true
+r Julia false
+r Pam true
+i Loralee 3 true
+i Kimmie 10 true
+i Bella 3 true
+i Dixie 17 false
+i Sharai 7 true
+i Jolene 15 false
+i Manda 17 false
+i Letitia 11 true
+r Wilow false
+i Bethena 6 true
+r Claude false
+i Netty 6 true
+i Nikki 17 true
+r Ebonee true
+r Cloe false
+i Clary 18 true
+i Livy 17 true
+i Raychel 12 true
+i Anetta 6 true
+r Viviana false
+r Shannon true
+i Trista 17 true
+i Alexina 5 false
+i Livy 8 false
+r Clary true
+i Theressa 18 true
+i Sonya 15 true
+i Sula 17 false
+i Concordia 7 false
+r Klarika false
+i Edy 9 true
+r Arabele false
+i Lorilyn 16 true
+r Ofella false
+i Lydie 16 true
+r Lebbie false
+r Clarey false
+i Marissa 19 true
+i Clarey 8 true
+r Devinne false
+r Ernaline false
+i Carena 17 true
+i Ansley 11 false
+r Winifred true
+i Viviana 18 true
+i Lulita 9 true
+r Kalindi true
+i Dyann 12 true
+i Karlen 9 true
+i Paige 10 true
+r Hendrika false
+i Austine 20 true
+i Hollyanne 2 false
+i Marissa 18 false
+i Ayn 4 true
+i Nananne 5 false
+i Juliana 18 true
+i Janella 14 false
+i Lucita 14 false
+i Netty 9 false
+i Neysa 6 false
+i Barbra 14 true
+i Claude 2 true
+i Rebe 17 false
+i Bridget 7 true
+i Maribelle 6 false
+i Latrina 8 true
+i Pru 11 true
+r Viviana true
+i Daisie 16 true
+i Kala 11 true
+r Lucita true
+i Libbi 12 true
+r Katti false
+r Lauryn false
+r Nesta false
+i Karisa 11 true
+i Marquita 11 true
+i Kristyn 5 true
+i Delphinia 9 false
+r Sal true
+r Ashlie false
+i Sal 16 true
+r Suzanna true
+i Viviana 14 true
+i Marissa 11 false
+i Carey 14 true
+r Lynelle false
+i Jenna 11 true
+r Kelcie false
+i Walliw 16 true
+r Alana false
+r Nesta false
+r Eveleen true
+r Barbra true
+i Katti 2 true
+i Bella 17 false
+i Pia 15 true
+i Jany 18 true
+i Gwenny 6 true
+r Jenna true
+r Devinne false
+i Sadye 18 false
+i Shannon 11 true
+i Sal 11 false
+i Kass 17 true
+r Papagena false
+i Shea 4 false
+i Ayn 18 false
+i Latrena 14 true
+i Maible 2 true
+i Mame 17 true
+i Julia 12 true
+i Neysa 7 false
+i Concordia 3 false
+i Lauryn 13 true
+i Merola 17 true
+r Erinna true
+i Kaleena 13 true
+i Rasla 2 true
+i Paige 18 false
+i Selma 6 true
+i Bette-Ann 13 true
+i Kathi 19 true
+i Loralee 7 false
+i Veradis 7 true
+i Lorrin 7 false
+i Ellene 9 true
+r Leonie true
+r Kala true
+i Leonie 6 true
+i Siobhan 9 true
+r Caro false
+i Luce 12 true
+r Drusy false
+r Jeanette false
+i Brandy 7 false
+i Gweneth 3 true
+i Clarey 10 false
+r Kelcie false
+i Amie 20 false
+r Cynthie false
+r Merola true
+r Cynthie false
+r Ebonee false
+i Stacy 6 true
+i Denys 3 true
+r Brita false
+r Jenilee false
+i Carla 16 true
+r Devinne false
+i Jemima 10 true
+i Brita 6 true
+r Lydie true
+i Arleta 18 true
+i Shayla 16 true
+r Shanie true
+r Claude true
+i Noelle 2 true
+r Veradis true
+i Emlynne 12 true
+r Ida false
+r Dyna true
+r Augustina false
+i Trista 7 false
+i Deanne 3 true
+i Carena 8 false
+r Augustina false
+r Dyann true
+i Dominica 19 false
+i Marjorie 3 false
+i Seana 10 true
+i Hollyanne 13 false
+i Di 14 true
+r Lorilyn true
+i Holly 4 true
+i Ashlie 9 true
+r Murial false
+r Paige true
+r Shayla true
+i Janella 13 false
+i Truda 8 false
+i Orsa 10 true
+i Phyllys 17 false
+r Blisse false
+i Pia 16 false
+i Valaree 14 true
+i Merrie 4 true
+r Deanne true
+i Silvana 19 true
+i Lydie 15 true
+i Meryl 18 true
+r Jany true
+i Jerrine 3 false
+i Hollyanne 9 false
+i Luce 7 false
+i Merlina 6 true
+r Lebbie false
+i Karalee 6 true
+i Arlina 2 true
+r Shari false
+r Amie true
+r Trixi false
+i Bendite 5 false
+i Kordula 14 true
+i Bendite 3 false
+i Lorilyn 1 true
+r Eveleen false
+i Dixie 16 false
+r Juliana true
+i Mildrid 4 true
+r Mariana false
+i Stephine 2 false
+i Cal 12 true
+i Karalee 18 false
+i Maible 13 false
+i Luciana 7 true
+r Viviana true
+i Krista 5 true
+i Shea 5 false
+r Emeline true
+r Lynnelle true
+r Rasla true
+i Gilly 13 false
+r Siobhan true
+r Edita false
+i Dixie 16 false
+i Birdie 5 true
+i Karalee 4 false
+r Shanie false
+i Jany 20 true
+r Kristyn true
+i Perle 16 true
+i Carline 16 true
+i Devinne 1 true
+i Erinna 20 true
+r Nesta false
+r Mariana false
+i Jeanette 13 true
+r Eveleen false
+r Murial false
+r Lynnelle false
+i Ofella 8 true
+i Enrichetta 16 true
+i Shari 1 true
+r Truda true
+i Justina 13 true
+i Doria 13 true
+r Marrilee false
+i Kathi 18 false
+r Orsa true
+i Jobie 20 false
+i Micheline 19 true
+i Barbra 9 true
+r Candra false
+r Sheela false
+i Monica 9 false
+r Frank false
+r Bethena true
+i Shea 4 false
+r Cloe false
+i Corina 20 false
+i Walliw 18 false
+r Leanna true
+i Denys 14 false
+i Lebbie 19 true
+r Cloe false
+r Goldi false
+i Barbe 20 true
+r Shayla false
+r Jilli false
+i Karalee 14 false
+r Lonna false
+i Edy 15 false
+i Luciana 5 false
+i Ansley 10 false
+i Rasla 10 true
+r Lexie false
+i Rebe 5 false
+i Zabrina 2 true
+i Gwenny 14 false
+i Tallou 4 true
+i Odessa 14 true
+i Dixie 9 false
+i Ashlie 13 false
+r Jolene true
+r Trista true
+i Kanya 3 true
+r Ida false
+i Brita 14 false
+r Pansy false
+i Mildrid 12 false
+i Luciana 17 false
+r Ashlie true
+i Ellene 8 false
+i Irma 1 true
+r Tallia false
+i Lebbie 11 false
+i Danella 15 true
+i Klarika 13 true
+i Shayla 17 true
+i Libbi 2 false
+i Romy 1 true
+i Bridget 7 false
+i Deidre 2 true
+i Kimmie 18 false
+r Pia true
+r Kass true
+i Siouxie 13 true
+i Eveleen 16 true
+r Sharai true
+r Gweneth true
+i Nettie 3 true
+i Kalindi 1 true
+r Lulita true
+i Pansy 5 true
+r Maud false
+i Ellene 2 false
+i Sal 12 false
+i Shari 14 false
+i Bridget 17 false
+i Lynelle 6 true
+i Paige 11 true
+i Meryl 5 false
+r Shea true
+i Tara 12 true
+r Cal true
+r Deina false
+i Danella 3 false
+r Maribelle true
+i Gabriela 7 true
+i Joey 20 false
+r Odessa true
+i Mildrid 10 false
+i Dee 5 true
+i Daveta 15 true
+i Francene 11 true
+i Kimberly 10 true
+i Lynne 8 true
+i Corina 11 false
+r Edy true
+i Ernaline 6 true
+r Clary false
+i Becka 13 true
+i Ernaline 11 false
+i Katti 1 false
+r Pru true
+i Michaela 2 true
+r Leanna false
+i Tara 8 false
+i Enrichetta 16 false
+r Ayn true
+r Cristine false
+i Tatiana 16 false
+r Cristine false
+i Merl 11 true
+i Leanna 14 true
+i Arleta 13 false
+r Austine true
+i Dacie 17 false
+r Odessa false
+i Lorilyn 18 false
+i Barbra 7 false
+r Arlina true
+i Juliana 5 true
+i Dyna 2 true
+i Dyann 16 true
+i Shawnee 7 true
+r Ilsa false
