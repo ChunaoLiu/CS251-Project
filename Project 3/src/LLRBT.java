@@ -1,4 +1,4 @@
-package src;/*
+/*
  * CS 25100 - Data Structures and Algorithms
  * Summer 2021 Project 3
  * Purdue University
@@ -38,11 +38,12 @@ public class LLRBT<Key extends Comparable<Key>, Value> {
         newNode.height = 0;
         newNode.isRed = true;
 
-        Node output = insert_helper(newNode);
+        this.root = insert_helper(newNode);
+        if (this.root.isRed) this.root.isRed = false;
     }
 
     public Node insert_helper(Node newNode) {
-        Node temp = root;
+        Node temp = this.root;
         if (temp == null) {
             return newNode;
         }
@@ -51,7 +52,7 @@ public class LLRBT<Key extends Comparable<Key>, Value> {
         } else if (temp.key.compareTo(newNode.key) < 0) {
             temp.right = insert_helper(temp.right);
         }
-
+        this.N += 1;
         if (temp.right.isRed && !temp.left.isRed) {
             temp = rotateLeft(temp);
         }
@@ -99,6 +100,20 @@ public class LLRBT<Key extends Comparable<Key>, Value> {
      * @return
      */
     public int height(Key key) {
+        int counter = 0;
+        Node temp = root;
+        while (temp != null) {
+            if (key.compareTo(temp.key) == 0) {
+                return counter;
+            }
+            if (key.compareTo(temp.key) > 0) {
+                temp = temp.right;
+                counter += 1;
+            } else {
+                temp = temp.left;
+                counter += 1;
+            }
+        }
         //TODO: Implement height()
         return -1;
     }

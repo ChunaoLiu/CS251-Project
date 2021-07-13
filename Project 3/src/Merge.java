@@ -1,9 +1,3 @@
-package src;/*
- * CS 25100 - Data Structures and Algorithms
- * Summer 2021 Project 3
- * Purdue University
- */
-
 public class Merge {
     private static int arrayAccesses;
 

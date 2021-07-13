@@ -1,5 +1,3 @@
-package src;
-
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.*;
@@ -40,8 +38,8 @@ public class LLRBTTest {
         private static boolean test(int testNum)
         {
             System.out.println("Testing LLRBT...");
-            String iFile = "LLRBT" + testNum + "_input.txt";
-            String eFile = "LLRBT" + testNum + "_expected.txt";
+            String iFile = "./Project 3/src/LLRBT" + testNum + "_input.txt";
+            String eFile = "./Project 3/src/LLRBT" + testNum + "_expected.txt";
             String actual = "";
             String expected = "";
             LLRBT<String, Integer> t = new LLRBT<String, Integer>();
