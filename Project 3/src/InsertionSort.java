@@ -1,4 +1,4 @@
-/*
+package src;/*
  * CS 25100 - Data Structures and Algorithms
  * Summer 2021 Project 3
  * Purdue University
@@ -16,6 +16,7 @@ public class InsertionSort {
      */
     public static int insertionSort(SortArray array) {
         //TODO: Implement insertionSort
+
         return arrayAccesses;
     }
 }

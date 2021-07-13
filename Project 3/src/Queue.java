@@ -1,3 +1,5 @@
+package src;
+
 @SuppressWarnings("unchecked")
 public class Queue<Item> 
 {

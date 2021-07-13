@@ -1,11 +1,10 @@
-/*
+package src;/*
  * CS 25100 - Data Structures and Algorithms
  * Summer 2021 Project 3
  * Purdue University
  */
 
 public class LLRBT<Key extends Comparable<Key>, Value> {
-
     private Node root; //the root of the tree
     private int N;     //the number of nodes in the tree
 
@@ -36,15 +35,41 @@ public class LLRBT<Key extends Comparable<Key>, Value> {
     public void insert(Key key, Value val) {
         //TODO: Implement insert
         Node newNode = new Node(key, val);
+        newNode.height = 0;
         newNode.isRed = true;
-        while (true) {
-            Node temp = root;
-            if (temp.val < val) {
 
-            }
+        Node output = insert_helper(newNode);
+    }
+
+    public Node insert_helper(Node newNode) {
+        Node temp = root;
+        if (temp == null) {
+            return newNode;
+        }
+        if (temp.key.compareTo(newNode.key) >= 0) {
+            temp.left = insert_helper(temp.left);
+        } else if (temp.key.compareTo(newNode.key) < 0) {
+            temp.right = insert_helper(temp.right);
         }
 
+        if (temp.right.isRed && !temp.left.isRed) {
+            temp = rotateLeft(temp);
+        }
+
+        if (temp.left.isRed && temp.left.left.isRed) {
+            temp = rotateRight(temp);
+        }
+
+        if (temp.right.isRed && temp.left.isRed) {
+            temp.flip();
+            temp.left.flip();
+            temp.right.flip();
+        }
+
+        return temp;
     }
+
+
 
     /**
      * Calculates and returns the black height of the tree
@@ -54,7 +79,16 @@ public class LLRBT<Key extends Comparable<Key>, Value> {
 
     public int blackHeight() {
         //TODO: Implement blackHeight()
-        return -1;
+        int counter = 1;
+        Node temp = root;
+        while (temp != null) {
+            temp = temp.left;
+            if (!temp.isRed) {
+                counter += 1;
+            }
+        }
+        counter += 1;
+        return counter;
     }
 
     /**
