@@ -33,41 +33,59 @@ public class LLRBT<Key extends Comparable<Key>, Value> {
      */
 
     public void insert(Key key, Value val) {
-        //TODO: Implement insert
         Node newNode = new Node(key, val);
         newNode.height = 0;
         newNode.isRed = true;
 
-        root = insert_helper(newNode);
+        root = insert_helper(root, key, val);
+
         N += 1;
         if (root.isRed) root.isRed = false;
     }
 
-    public Node insert_helper(Node newNode) {
-        Node temp = root;
+    public Node insert_helper(Node temp, Key key, Value val) {
+        Node newNode = new Node(key, val);
+        newNode.isRed = true;
+        newNode.left = null;
+        newNode.right = null;
+        newNode.height = 0;
         if (temp == null) {
             return newNode;
         }
-        if (temp.key.compareTo(newNode.key) >= 0) {
-            temp.left = insert_helper(temp.left);
+        if (temp.key.compareTo(newNode.key) > 0) {
+            if (temp.left != null & temp.right != null) temp.height += 1;
+            temp.left = insert_helper(temp.left, key, val);
         } else if (temp.key.compareTo(newNode.key) < 0) {
-            temp.right = insert_helper(temp.right);
+            if (temp.left != null & temp.right != null) temp.height += 1;
+            temp.right = insert_helper(temp.right, key, val);
+        } else {
+            temp.val = newNode.val;
+            return temp;
         }
-        if (temp.right.isRed && !temp.left.isRed) {
+
+        if (isRed(temp.right) && !isRed(temp.left)) {
             temp = rotateLeft(temp);
         }
 
-        if (temp.left.isRed && temp.left.left.isRed) {
+        if (isRed(temp.left) && isRed(temp.left.left)) {
             temp = rotateRight(temp);
         }
 
-        if (temp.right.isRed && temp.left.isRed) {
+        if (isRed(temp.right) && isRed(temp.left)) {
             temp.flip();
             temp.left.flip();
             temp.right.flip();
         }
 
         return temp;
+    }
+
+    public boolean isRed(Node input) {
+        if (input == null) {
+            return false;
+        } else {
+            return input.isRed;
+        }
     }
 
 
@@ -79,7 +97,6 @@ public class LLRBT<Key extends Comparable<Key>, Value> {
      */
 
     public int blackHeight() {
-        //TODO: Implement blackHeight()
         int counter = 1;
         Node temp = root;
         while (temp != null) {
@@ -114,7 +131,6 @@ public class LLRBT<Key extends Comparable<Key>, Value> {
                 counter += 1;
             }
         }
-        //TODO: Implement height()
         return -1;
     }
 
