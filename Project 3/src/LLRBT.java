@@ -38,12 +38,13 @@ public class LLRBT<Key extends Comparable<Key>, Value> {
         newNode.height = 0;
         newNode.isRed = true;
 
-        this.root = insert_helper(newNode);
-        if (this.root.isRed) this.root.isRed = false;
+        root = insert_helper(newNode);
+        N += 1;
+        if (root.isRed) root.isRed = false;
     }
 
     public Node insert_helper(Node newNode) {
-        Node temp = this.root;
+        Node temp = root;
         if (temp == null) {
             return newNode;
         }
@@ -52,7 +53,6 @@ public class LLRBT<Key extends Comparable<Key>, Value> {
         } else if (temp.key.compareTo(newNode.key) < 0) {
             temp.right = insert_helper(temp.right);
         }
-        this.N += 1;
         if (temp.right.isRed && !temp.left.isRed) {
             temp = rotateLeft(temp);
         }

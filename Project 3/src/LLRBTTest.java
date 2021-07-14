@@ -37,7 +37,7 @@ public class LLRBTTest {
 
         private static boolean test(int testNum)
         {
-            System.out.println("Testing LLRBT...");
+            System.out.println("Root address is: " + System.getProperty("user.dir"));
             String iFile = "./Project 3/src/LLRBT" + testNum + "_input.txt";
             String eFile = "./Project 3/src/LLRBT" + testNum + "_expected.txt";
             String actual = "";
