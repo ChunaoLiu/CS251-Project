@@ -16,16 +16,18 @@ public class InsertionSort {
      */
     public static int insertionSort(SortArray array) {
         //TODO: Implement insertionSort
-        for (int i = 0; i < array.length(); i++) {
-            for (int j = i + 1; j < array.length(); j++) {
-                if (array.get(i) > array.get(j)) {
-                    int temp = array.get(i);
-                    array.set(i, array.get(j));
-                    array.set(j, temp);
-                }
+        for (int i = 1; i < array.length(); ++i) {
+            int current = array.get(i);
+            int j = i - 1;
+            while (true) {
+                int prev = array.get(j);
+                if (prev <= current) break;
+                array.set(j + 1, prev);
+                j -= 1;
+                if (j == -1) break;
             }
+            array.set(j + 1, current);
         }
-
-        return arrayAccesses;
+        return array.getArrayAccesses();
     }
 }

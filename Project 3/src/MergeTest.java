@@ -57,6 +57,7 @@ public class MergeTest
         int[] array = getArray(subArrays, num);
         int[] copy = getCopy(array);
         SortArray s = new SortArray(array);
+        System.out.println("s is: " + s.toString());
         int accesses = Merge.sort(s);
         Arrays.sort(copy);
         boolean passed = checkArrays(s, copy);

@@ -53,15 +53,16 @@ public class LLRBT<Key extends Comparable<Key>, Value> {
             return newNode;
         }
         if (temp.key.compareTo(newNode.key) > 0) {
-            if (temp.left != null & temp.right != null) temp.height += 1;
             temp.left = insert_helper(temp.left, key, val);
         } else if (temp.key.compareTo(newNode.key) < 0) {
-            if (temp.left != null & temp.right != null) temp.height += 1;
             temp.right = insert_helper(temp.right, key, val);
         } else {
             temp.val = newNode.val;
+            N -= 1;
             return temp;
         }
+
+        temp.height = height_node(temp);
 
         if (isRed(temp.right) && !isRed(temp.left)) {
             temp = rotateLeft(temp);
@@ -97,15 +98,14 @@ public class LLRBT<Key extends Comparable<Key>, Value> {
      */
 
     public int blackHeight() {
-        int counter = 1;
+        int counter = 0;
         Node temp = root;
-        while (temp != null) {
+        while (temp.left != null) {
             temp = temp.left;
             if (!temp.isRed) {
                 counter += 1;
             }
         }
-        counter += 1;
         return counter;
     }
 
@@ -121,17 +121,20 @@ public class LLRBT<Key extends Comparable<Key>, Value> {
         Node temp = root;
         while (temp != null) {
             if (key.compareTo(temp.key) == 0) {
-                return counter;
+                return height_node(temp);
             }
             if (key.compareTo(temp.key) > 0) {
                 temp = temp.right;
-                counter += 1;
             } else {
                 temp = temp.left;
-                counter += 1;
             }
         }
         return -1;
+    }
+
+    public int height_node(Node node) {
+        if (node == null) return -1;
+        return Math.max(height_node(node.left), height_node(node.right)) + 1;
     }
 
 
