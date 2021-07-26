@@ -1,0 +1,5 @@
+X 1.5 X 0.5 X
+X X 8.9 X X
+X X X X 6.5
+X 2.7 X X 3.2
+X X X X X
