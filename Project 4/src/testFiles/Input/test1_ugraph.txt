@@ -1,4 +1,4 @@
-ugraph 8 
+dgraph 8
 v
 e
 add 0 5 4

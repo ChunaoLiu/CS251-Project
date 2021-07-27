@@ -1,7 +1,4 @@
-import java.lang.reflect.Array;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
+import java.util.*;
 
 public class Graph {
 
@@ -29,6 +26,7 @@ public class Graph {
      * @param vertices
      */
     public void ugraph(int vertices) {
+        if (vertices <= 0) return;
         adj = new ArrayList<>(vertices);
         size = vertices;
         edges = 0;
@@ -43,6 +41,7 @@ public class Graph {
      * @param vertices
      */
     public void dgraph(int vertices) {
+        if (vertices <= 0) return;
         adj = new ArrayList<>(vertices);
         size = vertices;
         edges = 0;
@@ -65,9 +64,6 @@ public class Graph {
     public boolean addEdge(int fromV, int toV, double weight) {
         if (fromV < 0 || fromV > size - 1) return false;
         if (toV < 0 || toV > size - 1) return false;
-        for (Node i : adj.get(fromV)) {
-            if (i.vertex == toV) return false;
-        }
         adj.get(fromV).add(new Node(toV, weight));
         if (!isDirected) {
             adj.get(toV).add(new Node(fromV, weight));
@@ -97,6 +93,7 @@ public class Graph {
      * @param v
      */
     public double weight(int u, int v) {
+        if (u < 0 || u >= size || v < 0 || v >= size) return -1.0;
         for (Node i : adj.get(u)) {
             if (i.vertex == v) return i.weight;
         }
@@ -110,7 +107,7 @@ public class Graph {
      * @param v
      */
     public String adjList(int v) {
-        if (v >= size) return "none";
+        if (v < 0 || v >= size) return "none";
         StringBuilder output = new StringBuilder();
         ArrayList<Integer> list = new ArrayList<Integer>();
         for (Node i : adj.get(v)) {
@@ -258,48 +255,70 @@ public class Graph {
      * Where each number is a vertex
      */
     public String tsort(){
-        if (!isDirected) return "No way dude";
-        ArrayList<ArrayList<Node>> temp = new ArrayList<>(adj);
-        int []T = new int[size];
-        Arrays.fill(T, 0);
-        int N = size;
-        ArrayList<Integer> visited = new ArrayList<>();
-        ArrayList<Integer> swappable = new ArrayList<>();
+        int indegree[] = new int[size];
 
-        while (N != 0) {
-            for (int i = 0; i <= N; i++) {
-                System.out.println("i is: " + i + " and Size is: " + temp.get(i).size());
-                if (temp.get(i).size() == 0) {
-                    if (visited.contains(i)) {
-                        continue;
-                    }
-                    T[i] = N - 1;
-                    N -= 1;
-                    System.out.println("N is: " + N);
-                    System.out.println("T is " + Arrays.toString(T));
-                    for (int j = 0; j <= N; j++) {
-                        ArrayList<Node> die_list = new ArrayList<>();
-                        for (Node temp2 : temp.get(j)) {
-                            if (temp2.vertex == i) {
-                                die_list.add(temp2);
-                            }
-                        }
-                        for (Node k : die_list) {
-                            temp.get(j).remove(k);
-                        }
-                    }
-                    visited.add(i);
-                }
+        // Traverse adjacency lists
+        // to fill indegrees of
+        // vertices. This step takes
+        // O(V+E) time
+        for (int i = 0; i < size; i++) {
+            ArrayList<Node> temp
+                    = (ArrayList<Node>)adj.get(i);
+            for (Node node : temp) {
+                indegree[node.vertex]++;
             }
         }
 
-        StringBuilder output = new StringBuilder();
-        for (int i : T) {
-            output.append(i);
-            output.append(" ");
+        // Create a queue and enqueue
+        // all vertices with indegree 0
+        Queue<Integer> q
+                = new LinkedList<Integer>();
+        for (int i = 0; i < size; i++) {
+            if (indegree[i] == 0)
+                q.add(i);
         }
-        output.deleteCharAt(output.length() - 1);
-        return output.toString();
+
+        // Initialize count of visited vertices
+        int cnt = 0;
+
+        // Create a vector to store result
+        // (A topological ordering of the vertices)
+        Vector<Integer> topOrder = new Vector<Integer>();
+        while (!q.isEmpty()) {
+            // Extract front of queue
+            // (or perform dequeue)
+            // and add it to topological order
+            int u = q.poll();
+            topOrder.add(u);
+
+            // Iterate through all its
+            // neighbouring nodes
+            // of dequeued node u and
+            // decrease their in-degree
+            // by 1
+            for (Node node : adj.get(u)) {
+                // If in-degree becomes zero,
+                // add it to queue
+                if (--indegree[node.vertex] == 0)
+                    q.add(node.vertex);
+            }
+            cnt++;
+        }
+
+        // Check if there was a cycle
+        if (cnt != size) {
+            System.out.println(
+                    "There exists a cycle in the graph");
+            return "None";
+        }
+
+        // Print topological order
+        StringBuilder out = new StringBuilder();
+        for (int i : topOrder) {
+            out.append(i).append(" ");
+        }
+        out.deleteCharAt(out.length() - 1);
+        return out.toString();
     }
 
     /***
@@ -308,8 +327,17 @@ public class Graph {
      */
     public boolean sconn() {
 
+        String[][] output = tclosure();
+        for (int i = 0; i <size; i++) {
+            for (int j = 0; j < size; j++) {
+                if (!output[i][j].equals("1")) {
+                    return false;
+                }
+            }
+        }
+        return true;
+
         //TODO implement sconn
-        return false;
     }
 
     /***
@@ -318,8 +346,83 @@ public class Graph {
      * Return an array of strings in a sorted ordere
      */
     public String[] components() {
-        //TODO implement components
-        return null;
+        int []dir = new int[size];
+        for (int i = 0; i < size; i++) {
+            dir[i] = i;
+        }
+        String [][]mat = matrix();
+        for (int i = 0; i < size; i++) {
+            for (int j = i; j < size; j++) {
+                if (!mat[i][j].equals("X") && !mat[j][i].equals("X")) {
+                    mat[j][i] = "X";
+                }
+            }
+        }
+        for (int i = 0; i < size; i++) {
+            for (int j = 0; j < size; j ++) {
+                if (mat[i][j].equals("X")) continue;
+                int source = i;
+                while (dir[source] != source) {
+                    System.out.println(source);
+                    source = dir[source];
+                }
+                if (dir[source] != dir[j]) {
+                    dir[source] = dir[j];
+                }
+            }
+        }
+
+        for (int i = 0; i < size; i++) {
+            int source = i;
+            while (source != dir[source]) {
+                source = dir[source];
+            }
+            dir[i] = source;
+        }
+
+        System.out.println(Arrays.toString(dir));
+
+        ArrayList<Integer> temp = new ArrayList<>();
+
+        for (int i = 0; i < dir.length; i++)
+        {
+            int j;
+            for (j = 0; j < i; j++) {
+                if (dir[i] == dir[j])
+                    break;
+            }
+
+            if (i == j) {
+                temp.add(dir[i]);
+            }
+        }
+
+        ArrayList<ArrayList<String>> output = new ArrayList<>();
+
+        for (int i = 0; i < temp.size(); i++) {
+            output.add(new ArrayList<String>());
+            for (int j = 0; j < dir.length; j++) {
+                if (dir[j] == temp.get(i)) {
+                    output.get(i).add(Integer.toString(j));
+                }
+            }
+        }
+
+        String []actual = new String[output.size()];
+        for (int i = 0; i < output.size(); i++) {
+            ArrayList<String> row = output.get(i);
+            StringBuilder temp2 = new StringBuilder();
+            for (String j : row) {
+                temp2.append(j);
+                temp2.append(" ");
+            }
+            temp2.deleteCharAt(temp2.length() - 1);
+            actual[i] = temp2.toString();
+        }
+
+        System.out.println(Arrays.toString(actual));
+
+        return actual;
     }
 
     /***
@@ -328,8 +431,64 @@ public class Graph {
      * @return
      */
     public boolean simple() {
-        //TODO implement simple
-        return false;
+        String[][] temp = matrix();
+        for (int i = 0; i < size; i++) {
+            if (!temp[i][i].equals("X")) {
+                System.out.println("Self Loop!");
+                return false;
+            }
+        }
+        for (int i = 0; i < size; i++) {
+            int[] count = new int[size];
+            Arrays.fill(count, 0);
+            for (Node j : adj.get(i)) {
+                count[j.vertex] += 1;
+            }
+            for (int j : count) {
+                if (j > 1) {
+                    System.out.println("Parallel Edges!");
+                    return false;
+                }
+            }
+        }
+        String[][] output = matrix();
+        if (isDirected) {
+            for (int k = 0; k < size; k++) {
+                for (int i = 0; i < size; i++) {
+                    for (int j = 0; j < size; j++) {
+                        if (output[i][k].equals("X")) continue;
+                        if (output[k][j].equals("X")) continue;
+                        if (output[i][j].equals("X")) {
+                            output[i][j] = "1";
+                        }
+                    }
+                }
+            }
+        } else {
+            for (int k = 0; k < size; k++) {
+                for (int i = 0; i < size; i++) {
+                    for (int j = 0; j < size; j++) {
+                        if (output[i][k].equals("X")) continue;
+                        if (output[k][j].equals("X")) continue;
+                        if (output[i][j].equals("X") && i != j) {
+                            output[i][j] = "1";
+                        }
+                    }
+                }
+            }
+        }
+
+        for (int i = 0; i < size; i++) {
+            for (int j = 0; j < size; j++) {
+                System.out.print(output[i][j] + " ");
+            }
+            System.out.println(" ");
+        }
+
+            for (int i = 0; i < size; i++) {
+                if (!output[i][i].equals("X")) return false;
+            }
+        return true;
     }
 }
 
