@@ -452,6 +452,7 @@ public class Graph {
             }
         }
         String[][] output = matrix();
+        boolean outcome = false;
         if (isDirected) {
             for (int k = 0; k < size; k++) {
                 for (int i = 0; i < size; i++) {
@@ -465,17 +466,19 @@ public class Graph {
                 }
             }
         } else {
-            for (int k = 0; k < size; k++) {
-                for (int i = 0; i < size; i++) {
-                    for (int j = 0; j < size; j++) {
-                        if (output[i][k].equals("X")) continue;
-                        if (output[k][j].equals("X")) continue;
-                        if (output[i][j].equals("X") && i != j) {
-                            output[i][j] = "1";
-                        }
+            boolean result = false;
+
+            //visited array
+            boolean[] visited = new boolean[size];
+            //do DFS, from each vertex
+            for (int i = 0; i <size ; i++) {
+                if(!visited[i]){
+                    if(isCycleUtil(i, visited, -1)){
+                        result = true;
                     }
                 }
             }
+            outcome = !result;
         }
 
         for (int i = 0; i < size; i++) {
@@ -484,11 +487,40 @@ public class Graph {
             }
             System.out.println(" ");
         }
-
-            for (int i = 0; i < size; i++) {
-                if (!output[i][i].equals("X")) return false;
-            }
+        for (int i = 0; i < size; i++) {
+            if (!output[i][i].equals("X")) return false;
+        }
+        if (!isDirected) {
+            return outcome;
+        }
         return true;
+    }
+
+    boolean isCycleUtil(int currVertex, boolean [] visited, int parent){
+
+        //add this vertex to visited vertex
+        visited[currVertex] = true;
+
+        //visit neighbors except its direct parent
+        for (int i = 0; i <adj.get(currVertex).size() ; i++) {
+            int vertex = adj.get(currVertex).get(i).vertex;
+            //check the adjacent vertex from current vertex
+            if(vertex!=parent) {
+                //if destination vertex is not its direct parent then
+                if(visited[vertex]){
+                    //if here means this destination vertex is already visited
+                    //means cycle has been detected
+                    return true;
+                }
+                else{
+                    //recursion from destination node
+                    if (isCycleUtil(vertex, visited, currVertex)) {
+                        return true;
+                    }
+                }
+            }
+        }
+        return false;
     }
 }
 
