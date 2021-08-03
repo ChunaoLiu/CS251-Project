@@ -1,0 +1,21 @@
+black height = 1
+height Melissa = 2
+height Kimberly = 3
+black height = 2
+(Lisa, 4222)
+tree size = 16
+tree height = 4
+(Julie, 17159)
+tree size = 22
+tree height = 5
+null
+tree height = 5
+black height = 3
+tree size = 25
+Level 0: |(Kimberly, 34136): 5; B|
+Level 1: |(Dawn, 15682): 3; B||(Stephanie, 15389): 4; B|
+Level 2: |(Angela, 24927): 2; B||(Julie, 17159): 2; B||(Melissa, 23737): 3; R||(Tammy, 19586): 2; B|
+Level 3: |(Amy, 25209): 0; B||(Cynthia, 12922): 1; B||(Heather, 14668): 1; R||(Kelly, 14610): 1; B||(Lisa, 4222): 2; B||(Patricia, 13405): 1; B||(Susan, 15738): 0; B||(Tracy, 18468): 1; B|
+Level 4: |null||null||(Christine, 16061): 0; R||null||(Elizabeth, 15119): 0; B||(Jennifer, 46157): 0; B||(Karen, 16701): 0; R||null||(Laura, 16493): 0; B||(Mary, 19203): 1; B||(Michelle, 34050): 0; B||(Shannon, 13546): 0; B||null||null||(Tina, 13863): 0; R||null|
+Level 5: |null||null||null||null||null||null||null||null||null||null||(Lori, 13446): 0; R||null||null||null||null||null||null||null|
+Level 6: |null||null|
